@@ -82,3 +82,53 @@ SFX Ps 0 s . ds:plural-s
 SFX Py Y 2
 SFX Py a ys a ds:plural-a-ys
 SFX Py 0 ys [^a] ds:plural-ys
+
+# Prefixes for nouns
+PFX Af Y 31
+PFX Af 0 an .
+PFX Af 0 das .
+PFX Af 0 di .
+PFX Af 0 dis .
+PFX Af 0 eko .
+PFX Af 0 fug .
+PFX Af 0 gor .
+PFX Af 0 gorth .
+PFX Af 0 gour .
+PFX Af 0 hanter .
+PFX Af 0 is .
+PFX Af 0 ken .
+PFX Af 0 kes .
+PFX Af 0 kev .
+PFX Af 0 korr .
+PFX Af 0 kowl .
+PFX Af 0 kowr .
+PFX Af 0 lies .
+PFX Af 0 mann .
+PFX Af 0 meur .
+PFX Af 0 om .
+PFX Af 0 on .
+PFX Af 0 over .
+PFX Af 0 pedn .
+PFX Af 0 penn .
+PFX Af 0 rag .
+PFX Af 0 sows .
+PFX Af 0 ter .
+PFX Af 0 try .
+PFX Af 0 ugh .
+PFX Af 0 un .
+
+SFX Af Y 14
+SFX Af 0 adow .
+SFX Af 0 as .
+SFX Af 0 ek .
+SFX Af 0 el .
+SFX Af 0 ieth .
+SFX Af 0 ma .
+SFX Af 0 ta .
+SFX Af 0 ys .
+SFX Af 0 'm .
+SFX Af 0 'th .
+SFX Af 0 'n .
+SFX Af 0 's .
+SFX Af 0 'agan .
+SFX Af 0 'agas .
