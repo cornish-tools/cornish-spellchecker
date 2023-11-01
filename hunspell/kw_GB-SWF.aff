@@ -1,0 +1,84 @@
+SET UTF-8
+FLAG long
+TRY esianrtolcdugmphbyfvkwzESIANRTOLCDUGMPHBYFVKWZ'
+
+NOSUGGEST XS
+
+ICONV 1
+ICONV ’ '
+
+# Lenition 2
+PFX Ml Y 11
+PFX Ml b v b ds:mutate-lenition
+PFX Ml ch j ch ds:mutate-lenition
+PFX Ml d dh d ds:mutate-lenition
+PFX Ml g 0 g[aeilrwy] ds:mutate-lenition
+PFX Ml g w gr[ou] ds:mutate-lenition
+PFX Ml g w g[ou] ds:mutate-lenition
+PFX Ml k g k ds:mutate-lenition
+PFX Ml m v m ds:mutate-lenition
+PFX Ml p b p ds:mutate-lenition
+PFX Ml t d t ds:mutate-lenition
+PFX Ml c g c ds:mutate-lenition
+
+# Aspirate 3
+PFX Ma Y 4
+PFX Ma p f p ds:mutate-aspirate
+PFX Ma t th t ds:mutate-aspirate
+PFX Ma c h c ds:mutate-aspirate
+PFX Ma k h k ds:mutate-aspirate
+
+# Hard 4
+PFX Mh Y 4
+PFX Mh b p b ds:mutate-hard
+PFX Mh d t d ds:mutate-hard
+PFX Mh g k g[aeilrwyou] ds:mutate-hard
+PFX Mh g k gr[ou] ds:mutate-hard
+
+# Mixed 5s
+PFX Mm Y 16
+PFX Mm b f b ds:mutate-mixed
+PFX Mm b v b ds:mutate-mixed
+PFX Mm d t d ds:mutate-mixed
+PFX Mm g h g[iyea] ds:mutate-mixed
+PFX Mm g hw g[ou] ds:mutate-mixed
+PFX Mm g hw geu ds:mutate-mixed
+PFX Mm g w g[ou] ds:mutate-mixed
+PFX Mm g w geu ds:mutate-mixed
+PFX Mm gr hwr gr[ou] ds:mutate-mixed
+PFX Mm gr hwr greu ds:mutate-mixed
+PFX Mm gr wr gr[ou] ds:mutate-mixed
+PFX Mm gr wr greu ds:mutate-mixed
+PFX Mm gw hw gw ds:mutate-mixed
+PFX Mm gw w gw ds:mutate-mixed
+PFX Mm m f Mm ds:mutate-mixed
+PFX Mm m v m ds:mutate-mixed
+
+# Plurals ending in -ow GMC 43.2
+SFX Pw Y 3
+SFX Pw el low el ds:plural-el-ow
+SFX Pw er row er ds:plural-er-ow
+SFX Pw 0 ow . ds:plural-ow
+
+# Plurals ending in -yon GMC 43.6-7
+SFX Pq Y 3
+SFX Pq er oryon er ds:plural-er-yon
+SFX Pq ek ogyon ek ds:plural-ek-yon
+SFX Pq 0 yon . ds:plural-yon
+
+# Plurals ending in -yow
+SFX Px Y 1
+SFX Px 0 yow . ds:plural-yow
+
+# Plurals ending in -es GMC 43.8
+SFX Pe Y 1 
+SFX Pe 0 es . ds:plural-es
+
+# Plurals ending in -s GMC 42.11a
+SFX Ps Y 1 
+SFX Ps 0 s . ds:plural-s
+
+# Plurals ending in -ys GMC 42.11d
+SFX Py Y 2
+SFX Py a ys a ds:plural-a-ys
+SFX Py 0 ys [^a] ds:plural-ys
