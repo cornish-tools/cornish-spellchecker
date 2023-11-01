@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<description xmlns="http://openoffice.org/extensions/description/2006" xmlns:d="http://openoffice.org/extensions/description/2006"  xmlns:xlink="http://www.w3.org/1999/xlink">
+    <version value="LIBRARY_VERSION" />
+    <identifier value="org.libreoffice.dictionaries.gerlyverkernewek" />
+    <display-name>
+        <name lang="kw-GB">Gerlyver Kernowek - FSS</name>
+        <name lang="en-GB">Cornish Dictionary - Standard Written Form</name>
+        <name lang="en-US">Cornish Dictionary - Standard Written Form</name>
+    </display-name>
+    <platform value="all" />
+    <dependencies>
+        <OpenOffice.org-minimal-version value="3.2" d:name="OpenOffice.org 3.2" />
+    </dependencies>
+    <icon>
+        <default xlink:href="kernowek.png" />
+    </icon>
+    <publisher>
+        <name xlink:href="https://github.com/cornish-tools/hunspell-cornish" lang="kw-GB">Kevriysi</name>
+        <name xlink:href="https://github.com/cornish-tools/hunspell-cornish" lang="en-GB">Contributors</name>
+    </publisher>
+    <extension-description>
+        <src xlink:href="description/description-kw.txt" lang="kw-GB" />
+        <src xlink:href="description/description-en.txt" lang="en-GB" />
+    </extension-description>
+</description>
