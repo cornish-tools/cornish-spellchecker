@@ -2,6 +2,15 @@
 
 This is a spellchecker for the Cornish language. It uses wordlists in the Standard Written Form that cover both Middle and Late Cornish combined. The spellchecker is based on Hunspell and but is also packaged for other applications that use the Hunspell framework, such as LibreOffice and OpenOffice.
 
+## Scores
+
+Current scores:
+![](badge/test-total-words.svg)
+![](badge/test-unique-words.svg)
+![](badge/test-unique-noneng-words.svg)
+
+Total word coverage weights words by their frequency in examples. Unique words coverage is just what score by unique spelling. Scores are out of 1000. The non-English percentage uses the Ubuntu Hunspell dictionary to exclude words that appear in English, since the sample includes people and company names that are common in English. 
+
 # Install
 
 ## LibreOffice
@@ -10,6 +19,14 @@ This is a spellchecker for the Cornish language. It uses wordlists in the Standa
 - Find the latest build.
 - Download the zip file
 - In the zip file, you'll find an OXT file. Double-click on that and the dictionary will be installed into LibreOffice.
+
+# Run
+
+## Hunspell
+
+A helpful tool is to use the `-m` flag to run morphological analysis:
+* po - part of speech
+* ds - cause of the affix
 
 # Feedback
 
