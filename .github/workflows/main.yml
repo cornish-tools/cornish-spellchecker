@@ -1,6 +1,7 @@
-on: push
-  paths:
-  - 'hunspell'
+on:
+  push:
+    paths:
+    - 'hunspell'
 permissions:
   contents: write
   
