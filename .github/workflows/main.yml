@@ -1,0 +1,28 @@
+on: push
+permissions:
+  contents: write
+  
+env:
+  LIBRARY_VERSION_NUMBER: 0.2.${{ github.run_number }}
+  
+jobs:
+  package-libre-office:
+    runs-on: ubuntu-latest
+    name: Package LibreOffice extension
+    steps:
+    - uses: actions/checkout@v3
+    - name: Package extension
+      run: |
+        mkdir packages/libreoffice/dictionaries
+        cp hunspell/* ${GITHUB_WORKSPACE}/packages/libreoffice/dictionaries/
+        sed -i 's/LIBRARY_VERSION/v${{ env.LIBRARY_VERSION_NUMBER }}/g' ${GITHUB_WORKSPACE}/packages/libreoffice/description.xml
+        cd ${GITHUB_WORKSPACE}/packages/libreoffice/
+        zip ${GITHUB_WORKSPACE}/packages/libreoffice-${{ env.LIBRARY_VERSION_NUMBER }}.zip * -r
+        mv -v ${GITHUB_WORKSPACE}/packages/libreoffice-${{ env.LIBRARY_VERSION_NUMBER }}.zip ${GITHUB_WORKSPACE}/packages/libreoffice-${{ env.LIBRARY_VERSION_NUMBER }}.oxt
+
+    - name: Upload extension as artifact
+      uses: actions/upload-artifact@v3
+      with:
+        name: libreoffice-${{ env.LIBRARY_VERSION_NUMBER }}
+        path: packages/libreoffice-${{ env.LIBRARY_VERSION_NUMBER }}.oxt
+        if-no-files-found: error
