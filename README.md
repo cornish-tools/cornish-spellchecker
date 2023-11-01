@@ -2,6 +2,10 @@
 
 This is a spellchecker for the Cornish language. It uses wordlists in the Standard Written Form that cover both Middle and Late Cornish combined. The spellchecker is based on Hunspell and but is also packaged for other applications that use the Hunspell framework, such as LibreOffice and OpenOffice.
 
+# Feedback
+
+This is a maintained project. It will benefit from feedback on issues identified with the dictionary. As such, please [raise issues here](https://github.com/cornish-tools/cornish-spellchecker/issues).
+
 # License
 
 Copyright (c) 2023 Cornish Tools, Cornish Language Office and Akademi Kernewek
