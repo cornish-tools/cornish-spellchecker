@@ -162,7 +162,7 @@ SFX Fp 0 a [^ls]
 # Verbs
 
 # Regular verbs - non-subjunctive GMC 180, 187, 188
-SFX Vr Y 46
+SFX Vr Y 45
 SFX Vr 0 asys h ds:-he-preterite-2ps
 SFX Vr 0 asyn h ds:-he-preterite-1pp
 SFX Vr 0 asowgh h ds:-he-preterite-2pp
@@ -199,7 +199,6 @@ SFX Vr 0 sowgh [^hy] ds:preterite-2pp
 SFX Vr 0 sons [^hy] ds:preterite-3pp
 SFX Vr 0 en . ds:imperfect-1p
 SFX Vr 0 es . ds:imperfect-2ps
-SFX Vr 0 a . ds:imperfect-3ps
 SFX Vr 0 ewgh . ds:imperfect-2pp
 SFX Vr 0 ens . ds:imperfect-3pp
 SFX Vr 0 ys . ds:imperfect-0p
@@ -209,6 +208,12 @@ SFX Vr 0 sa [^hy] ds:pluperfect-3ps
 SFX Vr 0 sewgh [^hy] ds:pluperfect-2pp
 SFX Vr 0 sens [^hy] ds:pluperfect-3pp
 SFX Vr 0 sys [^hy] ds:pluperfect-0p
+
+SFX Va Y 1
+SFX Va 0 a . ds:imperfect-3ps
+
+SFX Vi Y 1
+SFX Vi 0 i . ds:imperfect-3ps
 
 # Regular subjunctive rules
 SFX Vs Y 13
