@@ -8,7 +8,7 @@ ICONV 1
 ICONV ’ '
 
 # Lenition 2
-PFX Ml Y 11
+PFX Ml Y 22
 PFX Ml b v b ds:mutate-lenition
 PFX Ml ch j ch ds:mutate-lenition
 PFX Ml d dh d ds:mutate-lenition
@@ -20,6 +20,17 @@ PFX Ml m v m ds:mutate-lenition
 PFX Ml p b p ds:mutate-lenition
 PFX Ml t d t ds:mutate-lenition
 PFX Ml c g c ds:mutate-lenition
+PFX Ml B V B ds:mutate-lenition
+PFX Ml Ch J Ch ds:mutate-lenition
+PFX Ml D Dh D ds:mutate-lenition
+PFX Ml G 0 G[aeilrwy] ds:mutate-lenition
+PFX Ml G W Gr[ou] ds:mutate-lenition
+PFX Ml G W G[ou] ds:mutate-lenition
+PFX Ml K G K ds:mutate-lenition
+PFX Ml M V M ds:mutate-lenition
+PFX Ml P B P ds:mutate-lenition
+PFX Ml T D T ds:mutate-lenition
+PFX Ml C G C ds:mutate-lenition
 
 # Aspirate 3
 PFX Ma Y 4
