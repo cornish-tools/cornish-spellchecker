@@ -132,3 +132,18 @@ SFX Af 0 'n .
 SFX Af 0 's .
 SFX Af 0 'agan .
 SFX Af 0 'agas .
+
+SFX Fp Y 13
+SFX Fp 0 ov .
+SFX Fp 0 os .
+SFX Fp 0 so s
+SFX Fp 0 lo l
+SFX Fp 0 o [^ls]
+SFX Fp 0 si s
+SFX Fp 0 li l
+SFX Fp 0 i [^ls]
+SFX Fp 0 on .
+SFX Fp 0 owgh .
+SFX Fp 0 sa s
+SFX Fp 0 la l
+SFX Fp 0 a [^ls]
