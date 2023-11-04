@@ -1880,11 +1880,12 @@ assentyans/AfMaMl po:NOUN_MASCULINE
 assoyladow/MhMl po:ADJECTIVE
 assoyly/MaMhMlMmVaVrVs po:VERB_STEM
 assoylya/MaMhMlMm po:VERB
-ast/MaMhMlMmViVr po:VERB_STEM
 astel-dreghi/AfMaMl po:NOUN_FEMININE
 astel/AfMaMl po:NOUN_FEMININE
 astel/AfMaMl po:NOUN_MASCULINE
 astel/MaMhMlMm po:VERB
+astel/MaMhMlMmViVr po:VERB_STEM
+astell/MaMhMlMmVs po:VERB_STEM
 astelwoly/MaMhMlMmVaVrVs po:VERB_STEM
 astelwolya/MaMhMlMm po:VERB
 astelwolyans/AfMaMl po:NOUN_MASCULINE
@@ -1899,7 +1900,6 @@ astiveri/MaMhMlMm po:VERB
 astiverr/MaMhMlMmVs po:VERB_STEM
 astiveryans/AfMaMlPw po:NOUN_MASCULINE
 astranj/MhMl po:ADJECTIVE
-astt/MaMhMlMmVs po:VERB_STEM
 asvab/MaMhMlMmVaVr po:VERB_STEM
 asvaba/MaMhMlMm po:VERB
 asvabans/AfMaMlPw po:NOUN_MASCULINE
@@ -4162,8 +4162,8 @@ dieneth/AfMaMl po:NOUN_FEMININE
 dierbydn/MaMhMlMmVaVr po:VERB_STEM
 dierbydna/MaMhMlMm po:VERB
 dierbydnn/MaMhMlMmVs po:VERB_STEM
-dierbynn/MaMhMlMmVaVrVs po:VERB_STEM
 dierbynna/MaMhMlMm po:VERB
+dierbynna/MaMhMlMmVaVrVs po:VERB_STEM
 dieskis/MhMl po:ADJECTIVE
 dieth
 dieth/AfMaMl po:NOUN_MASCULINE
@@ -4185,17 +4185,17 @@ difeyth/MhMl po:ADJECTIVE
 difeythtir/AfMaMlPx po:NOUN_MASCULINE
 difinweth/MhMl po:ADJECTIVE
 diflows/MhMl po:ADJECTIVE
-difr/MaMhMlMmViVr po:VERB_STEM
 difres/AfMaMlPw po:NOUN_MASCULINE
 difres/MaMhMlMm po:VERB
+difres/MaMhMlMmViVr po:VERB_STEM
 difresek/MhMl po:ADJECTIVE
+difress/MaMhMlMmVs po:VERB_STEM
 difresyades/AfMaMlPw po:NOUN_FEMININE
 difresyans/AfMaMlPw po:NOUN_MASCULINE
 difresyas/AfMaMl po:NOUN_MASCULINE
 difresyji/AfMaMl po:NOUN_PLURAL
 difresysi/AfMaMl po:NOUN_PLURAL
 difreth/MhMl po:ADJECTIVE
-difrr/MaMhMlMmVs po:VERB_STEM
 difudh/MaMhMlMmViVr po:VERB_STEM
 difudhell/AfMaMlPw po:NOUN_FEMININE
 difudhi
@@ -7003,15 +7003,15 @@ gorliwans/AfMaMlPw po:NOUN_MASCULINE
 gorlosk/AfMaMl po:NOUN_MASCULINE
 gorloskell/AfMaMlPw po:NOUN_FEMININE
 gorlosten/AfMaMl po:NOUN_FEMININE
-gorm/MaMhMlMmViVr po:VERB_STEM
 gorm/MhMl po:ADJECTIVE
 gormel/MaMhMlMm po:VERB
+gormel/MaMhMlMmViVr po:VERB_STEM
+gormell/MaMhMlMmVs po:VERB_STEM
 gormes/MaMhMlMmViVr po:VERB_STEM
 gormesi/MaMhMlMm po:VERB
 gormess/MaMhMlMmVs po:VERB_STEM
 gormesyer/AfMaMlPq po:NOUN_MASCULINE
 gormesyores/AfMaMlPw po:NOUN_FEMININE
-gormm/MaMhMlMmVs po:VERB_STEM
 gormola/AfMaMl po:NOUN_FEMININE
 gormoladow/AfMaMl po:NOUN_MASCULINE
 gormoledhow/AfMaMl po:NOUN_PLURAL
@@ -7437,7 +7437,6 @@ gwannhe/MaMhMlMm po:VERB
 gwannhenwyn/AfMaMl po:NOUN_PLURAL
 gwannliwek/MhMl po:ADJECTIVE
 gwanttrr/MaMhMlMmVs po:VERB_STEM
-gwar/MaMhMlMmViVr po:VERB_STEM
 gwara/Ma po:NOUN_COLLECTIVE
 gwaraji/AfMaMlPw po:NOUN_MASCULINE
 gwarak/AfMaMl po:NOUN_MASCULINE
@@ -7452,6 +7451,7 @@ gwarek
 gwari
 gwari/AfMaMlPw po:NOUN_MASCULINE
 gwari/MaMhMlMm po:VERB
+gwari/MaMhMlMmViVrVs po:VERB_STEM
 gwariell/AfMaMlPw po:NOUN_FEMININE
 gwariellow
 gwarier/AfMaMlPq po:NOUN_MASCULINE
@@ -7465,7 +7465,6 @@ gwarny/MaMhMlMmVaVrVs po:VERB_STEM
 gwarnya/MaMhMlMm po:VERB
 gwarnyans/AfMaMlPw po:NOUN_MASCULINE
 gwarr/AfMaMlPw po:NOUN_FEMININE
-gwarr/MaMhMlMmVs po:VERB_STEM
 gwartha
 gwartha/MhMl po:ADJECTIVE
 gwarthek/Ma po:NOUN_COLLECTIVE
@@ -7643,7 +7642,6 @@ gwenton
 gwenton/AfMaMl po:NOUN_MASCULINE
 gwer
 gwer/AfMaMl po:NOUN_PLURAL
-gwer/MaMhMlMmViVr po:VERB_STEM
 gwer/MhMl po:ADJECTIVE
 gwerdhu/MhMl po:ADJECTIVE
 gwerek/MhMl po:ADJECTIVE
@@ -7652,10 +7650,12 @@ gweremmow/AfMaMl po:NOUN_PLURAL
 gweres
 gweres/AfMaMlPw po:NOUN_MASCULINE
 gweres/MaMhMlMm po:VERB
+gweres/MaMhMlMmViVr po:VERB_STEM
 gweresek/MhMl po:ADJECTIVE
 gwereser/AfMaMlPq po:NOUN_MASCULINE
 gweresliv/AfMaMlPw po:NOUN_MASCULINE
 gweresores/AfMaMlPw po:NOUN_FEMININE
+gweress/MaMhMlMmVs po:VERB_STEM
 gwergh/MhMl po:ADJECTIVE
 gwerghes/AfMaMlPw po:NOUN_FEMININE
 gwerik/MhMl po:ADJECTIVE
@@ -7675,7 +7675,6 @@ gwern/Ma po:NOUN_COLLECTIVE
 gwernis/AfMaMlPx po:NOUN_FEMININE
 gwernisy/MaMhMlMmVaVrVs po:VERB_STEM
 gwernisya/MaMhMlMm po:VERB
-gwerr/MaMhMlMmVs po:VERB_STEM
 gwers/AfMaMlPx po:NOUN_FEMININE
 gwerselansow/AfMaMl po:NOUN_PLURAL
 gwersell/MaMhMlMmVaVrVs po:VERB_STEM
@@ -11475,10 +11474,11 @@ kummyas/AfMaMl po:NOUN_MASCULINE
 kumyasow-entra/AfMaMl po:NOUN_PLURAL
 kumyasow/AfMaMl po:NOUN_PLURAL
 kuner/AfMaMlPq po:NOUN_MASCULINE
-kunt/MaMhMlMmViVr po:VERB_STEM
 kuntel
 kuntel/AfMaMl po:NOUN_MASCULINE
 kuntel/MaMhMlMm po:VERB
+kuntel/MaMhMlMmViVr po:VERB_STEM
+kuntell/MaMhMlMmVs po:VERB_STEM
 kuntellek
 kuntellek/AfMaMl po:NOUN_PLURAL
 kunteller/AfMaMlPq po:NOUN_MASCULINE
@@ -11487,7 +11487,6 @@ kuntellow/AfMaMl po:NOUN_PLURAL
 kuntellyans/AfMaMlPw po:NOUN_MASCULINE
 kuntelores/AfMaMlPw po:NOUN_FEMININE
 kuntilow/AfMaMlPx po:NOUN_MASCULINE
-kuntt/MaMhMlMmVs po:VERB_STEM
 kunys/Ma po:NOUN_COLLECTIVE
 kur/AfMaMl po:NOUN_MASCULINE
 kuriegi/AfMaMl po:NOUN_PLURAL
@@ -14242,9 +14241,9 @@ omgregi/MaMhMlMm po:VERB
 omgrekk/MaMhMlMmVs po:VERB_STEM
 omgudh/MaMhMlMmVaVr po:VERB_STEM
 omgudha/MaMhMlMm po:VERB
-omgunt/MaMhMlMmViVr po:VERB_STEM
 omguntel/MaMhMlMm po:VERB
-omguntt/MaMhMlMmVs po:VERB_STEM
+omguntel/MaMhMlMmViVr po:VERB_STEM
+omguntell/MaMhMlMmVs po:VERB_STEM
 omgussuly/MaMhMlMmVaVrVs po:VERB_STEM
 omgussulya/MaMhMlMm po:VERB
 omgussulyans/AfMaMlPw po:NOUN_MASCULINE
@@ -15687,7 +15686,6 @@ potya/MaMhMlMm po:VERB
 poudel/AfMaMl po:NOUN_MASCULINE
 pow
 pow/AfMaMlPx po:NOUN_MASCULINE
-pow/MaMhMlMmViVrVs po:VERB_STEM
 powas/AfMaMlPw po:NOUN_MASCULINE
 powdir/AfMaMl po:NOUN_MASCULINE
 powek/MhMl po:ADJECTIVE
@@ -15695,6 +15693,8 @@ power/AfMaMlPs po:NOUN_MASCULINE
 powes-omladh/AfMaMl po:NOUN_MASCULINE
 powes/AfMaMlPw po:NOUN_MASCULINE
 powes/MaMhMlMm po:VERB
+powes/MaMhMlMmViVr po:VERB_STEM
+powess/MaMhMlMmVs po:VERB_STEM
 powesva/AfMaMlPw po:NOUN_FEMININE
 pows/AfMaMlPx po:NOUN_FEMININE
 poynt
