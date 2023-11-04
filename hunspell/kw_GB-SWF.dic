@@ -1,4 +1,4 @@
-20714
+20729
 1920ow
 30
 30ves
@@ -4035,13 +4035,15 @@ dhe-ves
 dhe-ves/Fp po:ADVERB
 dhe-woles
 dhe/Fp po:ADVERB
-dhe/Fp po:PREPOSITION
 dhe/MhMl po:ADJECTIVE
 dhebm
+dhedha
+dhedhan
 dhedhi
 dhehen
 dhelergh
 dhemedhyans
+dhen
 dhens
 dherag/Fp po:ADVERB
 dherag/Fp po:PREPOSITION
@@ -4058,6 +4060,7 @@ dhewboynt
 dhewbries
 dhewdhen
 dhewfrik
+dhewgh
 dhewis
 dheân
 dhe’n
@@ -4073,6 +4076,7 @@ dhiw
 dhiwedhes
 dhiwen
 dhiwen!
+dhodhans
 dhodho
 dhor
 dhorn
@@ -4088,6 +4092,7 @@ dhu
 dhuryen
 dhybri
 dhymm
+dhyn
 dhywar/Fp po:PREPOSITION
 dhywarlinen/MhMl po:ADJECTIVE
 dhywgh
@@ -6458,6 +6463,7 @@ gallojek/MhMl po:ADJECTIVE
 gallon/AfMaMlPs po:NOUN_MASCULINE
 gallons/MaMhMlMm po:VERB
 gallos/AfMaMl po:NOUN_MASCULINE
+gallos/MaMhMlMm po:VERB
 gallosedh/AfMaMl po:NOUN_MASCULINE
 galloseg/MaMhMlMmViVr po:VERB_STEM
 gallosegi/MaMhMlMm po:VERB
@@ -16498,7 +16504,8 @@ rag po:INTERJECTION
 rag po:PREFIX
 rag/AfMaMl po:NOUN_PLURAL
 rag/Fp po:ADVERB
-rag/Fp po:PREPOSITION
+raga
+ragam
 ragavenow/AfMaMl po:NOUN_PLURAL
 ragavon/AfMaMl po:NOUN_FEMININE
 ragavonyow/AfMaMl po:NOUN_PLURAL
@@ -16515,6 +16522,8 @@ ragbrenores/AfMaMlPw po:NOUN_FEMININE
 ragbrofyans/AfMaMl po:NOUN_MASCULINE
 ragbrofyansow/AfMaMl po:NOUN_PLURAL
 ragdas/AfMaMlPw po:NOUN_MASCULINE
+ragdha
+ragdho
 ragdres
 ragdres/AfMaMl po:NOUN_PLURAL
 ragdres/AfMaMlPw po:NOUN_MASCULINE
@@ -16538,6 +16547,10 @@ raglev/MaMhMlMmVaVr po:VERB_STEM
 ragleva/MaMhMlMm po:VERB
 ragober/AfMaMl po:NOUN_MASCULINE
 ragoberow/AfMaMl po:NOUN_PLURAL
+ragon
+ragos
+ragov
+ragowgh
 ragresegydh/AfMaMlPq po:NOUN_MASCULINE
 ragresegydhes/AfMaMlPw po:NOUN_FEMININE
 ragresek/MaMhMlMm po:VERB
@@ -16551,6 +16564,7 @@ ragrewlivek
 ragrewlivek/AfMaMl po:NOUN_PLURAL
 ragsel/AfMaMlPx po:NOUN_MASCULINE
 ragskrif/AfMaMlPw po:NOUN_MASCULINE
+ragtans
 ragvewek/MhMl po:ADJECTIVE
 ragvreghel
 ragvreghel/AfMaMl po:NOUN_UNDETERMINED
@@ -17063,6 +17077,7 @@ rydh
 rydh/MhMl po:ADJECTIVE
 rydhses/AfMaMl po:NOUN_MASCULINE
 ryg/AfMaMlPx po:NOUN_MASCULINE
+rygdhi
 rynnys
 rypsav/AfMaMlPw po:NOUN_MASCULINE
 rys/AfMaMlPx po:NOUN_FEMININE
