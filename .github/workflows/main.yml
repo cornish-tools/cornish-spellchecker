@@ -1,9 +1,5 @@
 on:
-  push:
-    paths:
-    - .github
-    - hunspell
-    - packages
+  push
 permissions:
   contents: write
   
