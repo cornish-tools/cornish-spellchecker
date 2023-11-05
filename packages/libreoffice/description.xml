@@ -15,8 +15,8 @@
         <default xlink:href="kernowek.png" />
     </icon>
     <publisher>
-        <name xlink:href="https://github.com/cornish-tools/cornish-spellchecker" lang="kw-GB">Kevriysi</name>
-        <name xlink:href="https://github.com/cornish-tools/cornish-spellchecker" lang="en-GB">Contributors</name>
+        <name xlink:href="https://cornish-tools.github.io/cornish-spellchecker/" lang="kw-GB">Kevriysi</name>
+        <name xlink:href="https://cornish-tools.github.io/cornish-spellchecker/" lang="en-GB">Contributors</name>
     </publisher>
     <extension-description>
         <src xlink:href="description/description-kw.txt" lang="kw-GB" />

@@ -1,0 +1,13 @@
+{
+  "dictionaries": {
+    "kw-GB": "dictionaries/kw_GB-SWF.dic"
+  },
+  "version": "LIBRARY_VERSION",
+  "browser_specific_settings": {
+    "gecko": {
+      "id": "cornish-spellchecker@cornish-tools.github.io"
+    }
+  },
+  "name": "Cornish Dictionary - Standard Written Form",
+  "manifest_version": 2
+}

@@ -29,3 +29,25 @@ jobs:
         name: libreoffice-${{ env.LIBRARY_VERSION_NUMBER }}
         path: packages/libreoffice-${{ env.LIBRARY_VERSION_NUMBER }}.oxt
         if-no-files-found: error
+
+        
+  package-firefox:
+    runs-on: ubuntu-latest
+    name: Package LibreOffice extension
+    steps:
+    - uses: actions/checkout@v3
+    - name: Package extension
+      run: |
+        mkdir packages/firefox/dictionaries
+        cp hunspell/* ${GITHUB_WORKSPACE}/packages/firefox/dictionaries/
+        sed -i 's/LIBRARY_VERSION/v${{ env.LIBRARY_VERSION_NUMBER }}/g' ${GITHUB_WORKSPACE}/packages/firefox/manifest.json
+        cd ${GITHUB_WORKSPACE}/packages/firefox/
+        zip ${GITHUB_WORKSPACE}/packages/firefox-${{ env.LIBRARY_VERSION_NUMBER }}.zip * -r
+        mv -v ${GITHUB_WORKSPACE}/packages/firefox-${{ env.LIBRARY_VERSION_NUMBER }}.zip ${GITHUB_WORKSPACE}/packages/firefox-${{ env.LIBRARY_VERSION_NUMBER }}.xpi
+
+    - name: Upload extension as artifact
+      uses: actions/upload-artifact@v3
+      with:
+        name: firefox-${{ env.LIBRARY_VERSION_NUMBER }}
+        path: packages/firefox-${{ env.LIBRARY_VERSION_NUMBER }}.xpi
+        if-no-files-found: error
