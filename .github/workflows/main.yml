@@ -1,7 +1,5 @@
 on:
-  push:
-    paths:
-    - 'hunspell'
+  push
 permissions:
   contents: write
   
@@ -33,7 +31,7 @@ jobs:
         
   package-firefox:
     runs-on: ubuntu-latest
-    name: Package LibreOffice extension
+    name: Package Firefox extension
     steps:
     - uses: actions/checkout@v3
     - name: Package extension
