@@ -51,3 +51,35 @@ jobs:
         name: firefox-${{ env.LIBRARY_VERSION_NUMBER }}
         path: packages/firefox-${{ env.LIBRARY_VERSION_NUMBER }}.xpi
         if-no-files-found: error
+
+  release:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Create Draft Release
+      id: create_release
+      uses: actions/create-release@v1
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      with:
+        tag_name: ${{ env.LIBRARY_VERSION_NUMBER }}
+        release_name: ${{ env.LIBRARY_VERSION_NUMBER }}
+        draft: true
+        prerelease: false
+
+    - uses: actions/upload-release-asset@v1.0.1
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      with:
+        upload_url: ${{ steps.create_release.outputs.upload_url }}
+        asset_path: packages/libreoffice-${{ env.LIBRARY_VERSION_NUMBER }}.oxt
+        asset_name: libreoffice-${{ env.LIBRARY_VERSION_NUMBER }}.oxt
+        asset_content_type: application/zip
+
+    - uses: actions/upload-release-asset@v1.0.1
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      with:
+        upload_url: ${{ steps.create_release.outputs.upload_url }}
+        asset_path: packages/firefox-${{ env.LIBRARY_VERSION_NUMBER }}.xpi
+        asset_name: firefox-${{ env.LIBRARY_VERSION_NUMBER }}.xpi
+        asset_content_type: application/zip
