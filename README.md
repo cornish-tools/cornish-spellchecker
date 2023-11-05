@@ -31,7 +31,7 @@ The latest releases can be found in the [Releases](https://github.com/cornish-to
 
 ## Thunderbird
 
-Thunderbird is an email client.
+Thunderbird is an email client. Instructions can be found on [their website](https://support.mozilla.org/en-US/kb/installing-addon-thunderbird#w_a-slightly-less-ideal-case-install-from-a-downloaded-xpi-file).
 
 - Ensure Thunderbird is installed.
 - Find the [latest release](https://github.com/cornish-tools/cornish-spellchecker/releases).
