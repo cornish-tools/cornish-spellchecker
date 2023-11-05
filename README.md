@@ -52,9 +52,9 @@ This is a maintained project. It will benefit from feedback on issues identified
 
 # License
 
-Copyright (c) 2023 Cornish Tools, Akademi Kernewek, Cornish Language Office
+Copyright (c) 2023 Cornish Tools, Akademi Kernewek
 
-The data herein is derived from that provided by Akademi Kernewek and the Cornish Language Office, released under [Creative Commons Attribution NonCommercial](https://creativecommons.org/licenses/by-nc/4.0/). As such, these spellcheckers are released under the same licence and without warranty:
+The data herein is derived from the Akademi Kernewek wordlist provided by the Cornish Language Office, released under [Creative Commons Attribution NonCommercial](https://creativecommons.org/licenses/by-nc/4.0/). As such, these spellcheckers are released under the same licence and without warranty:
 
 The software is provided "as is", without warranty of any kind, express or implied, including but not limited to the warranties of merchantability, fitness for a particular purpose and noninfringement. In no event shall the authors or copyright holders be liable for any claim, damages or other liability, whether in an action of contract, tort or otherwise, arising from, out of or in connection with the software or the use or other dealings in the software.
 
