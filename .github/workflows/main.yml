@@ -29,30 +29,30 @@ jobs:
         if-no-files-found: error
 
         
-  package-firefox:
+  package-mozilla:
     runs-on: ubuntu-latest
-    name: Package Firefox extension
+    name: Package mozilla extension
     steps:
     - uses: actions/checkout@v3
     - name: Package extension
       run: |
-        mkdir packages/firefox/dictionaries
-        cp hunspell/* ${GITHUB_WORKSPACE}/packages/firefox/dictionaries/
-        sed -i 's/LIBRARY_VERSION/v${{ env.LIBRARY_VERSION_NUMBER }}/g' ${GITHUB_WORKSPACE}/packages/firefox/manifest.json
-        cd ${GITHUB_WORKSPACE}/packages/firefox/
-        zip ${GITHUB_WORKSPACE}/packages/firefox-${{ env.LIBRARY_VERSION_NUMBER }}.zip * -r
-        mv -v ${GITHUB_WORKSPACE}/packages/firefox-${{ env.LIBRARY_VERSION_NUMBER }}.zip ${GITHUB_WORKSPACE}/packages/firefox-${{ env.LIBRARY_VERSION_NUMBER }}.xpi
+        mkdir packages/mozilla/dictionaries
+        cp hunspell/* ${GITHUB_WORKSPACE}/packages/mozilla/dictionaries/
+        sed -i 's/LIBRARY_VERSION/v${{ env.LIBRARY_VERSION_NUMBER }}/g' ${GITHUB_WORKSPACE}/packages/mozilla/manifest.json
+        cd ${GITHUB_WORKSPACE}/packages/mozilla/
+        zip ${GITHUB_WORKSPACE}/packages/mozilla-${{ env.LIBRARY_VERSION_NUMBER }}.zip * -r
+        mv -v ${GITHUB_WORKSPACE}/packages/mozilla-${{ env.LIBRARY_VERSION_NUMBER }}.zip ${GITHUB_WORKSPACE}/packages/mozilla-${{ env.LIBRARY_VERSION_NUMBER }}.xpi
 
     - name: Upload extension as artifact
       uses: actions/upload-artifact@v3
       with:
-        name: firefox-${{ env.LIBRARY_VERSION_NUMBER }}
-        path: packages/firefox-${{ env.LIBRARY_VERSION_NUMBER }}.xpi
+        name: mozilla-${{ env.LIBRARY_VERSION_NUMBER }}
+        path: packages/mozilla-${{ env.LIBRARY_VERSION_NUMBER }}.xpi
         if-no-files-found: error
   
   release:
     runs-on: ubuntu-latest
-    needs: [package-libre-office, package-firefox]
+    needs: [package-libre-office, package-mozilla]
     steps:
       
     - uses: actions/download-artifact@v2
@@ -62,7 +62,7 @@ jobs:
     
     - uses: actions/download-artifact@v2
       with:
-        name: firefox-${{ env.LIBRARY_VERSION_NUMBER }}
+        name: mozilla-${{ env.LIBRARY_VERSION_NUMBER }}
         path: packages/
     - name: Create Draft Release
       id: create_release
@@ -89,6 +89,6 @@ jobs:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       with:
         upload_url: ${{ steps.create_release.outputs.upload_url }}
-        asset_path: packages/firefox-${{ env.LIBRARY_VERSION_NUMBER }}.xpi
-        asset_name: firefox-${{ env.LIBRARY_VERSION_NUMBER }}.xpi
+        asset_path: packages/mozilla-${{ env.LIBRARY_VERSION_NUMBER }}.xpi
+        asset_name: mozilla-${{ env.LIBRARY_VERSION_NUMBER }}.xpi
         asset_content_type: application/zip
