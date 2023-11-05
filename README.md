@@ -26,10 +26,17 @@ The latest releases can be found in the [Releases](https://github.com/cornish-to
 
 - Ensure Firefox is installed.
 - Find the [latest release](https://github.com/cornish-tools/cornish-spellchecker/releases).
-- Download the LibreOffice OXT file.
-- Double-click on that and the dictionary will be installed into LibreOffice.
+- Download the Mozilla XPI file.
+- Double-click on that and the dictionary will be installed into Firefox or drag the XPI file into Firefox.
 
 ## Thunderbird
+
+Thunderbird is an email client.
+
+- Ensure Thunderbird is installed.
+- Find the [latest release](https://github.com/cornish-tools/cornish-spellchecker/releases).
+- Download the Mozilla XPI file.
+- Drag the XPI file into Thunderbird and the dictionary will be installed.
 
 # Run
 
