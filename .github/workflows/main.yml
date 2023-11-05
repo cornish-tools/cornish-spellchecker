@@ -2,6 +2,7 @@ on:
   push:
     paths:
     - hunspell
+    - packages
 permissions:
   contents: write
   
