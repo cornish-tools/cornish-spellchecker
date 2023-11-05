@@ -13,12 +13,23 @@ Total word coverage weights words by their frequency in examples. Unique words c
 
 # Install
 
+The latest releases can be found in the [Releases](https://github.com/cornish-tools/cornish-spellchecker/releases) section.
+
 ## LibreOffice
 
 - Ensure LibreOffice is installed.
-- Find the latest build.
-- Download the zip file
-- In the zip file, you'll find an OXT file. Double-click on that and the dictionary will be installed into LibreOffice.
+- Find the [latest release](https://github.com/cornish-tools/cornish-spellchecker/releases).
+- Download the LibreOffice OXT file.
+- Double-click on that and the dictionary will be installed into LibreOffice.
+
+## Firefox
+
+- Ensure Firefox is installed.
+- Find the [latest release](https://github.com/cornish-tools/cornish-spellchecker/releases).
+- Download the LibreOffice OXT file.
+- Double-click on that and the dictionary will be installed into LibreOffice.
+
+## Thunderbird
 
 # Run
 
