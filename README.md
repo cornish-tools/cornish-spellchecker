@@ -19,6 +19,8 @@ Total word coverage weights words by their frequency in examples. Unique words c
 
 The latest releases can be found in the [Releases](https://github.com/cornish-tools/cornish-spellchecker/releases) section.
 
+Note that, due to the licencing on this spell-checker (see below), it is not compatible with extension marketplaces so the packages need to be installed here, from Github.
+
 ## LibreOffice
 
 - Ensure LibreOffice is installed.
