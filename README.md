@@ -41,7 +41,9 @@ Thunderbird is an email client. Instructions can be found on [their website](htt
 
 - Ensure Thunderbird is installed.
 - Download the [latest](https://github.com/cornish-tools/cornish-spellchecker/releases) Mozilla XPI file.
-- In Thunderbird, go to Settings &#x2699; > Add-ons and Themes &#129513; > Drag the XPI file into the Add-ons and Themes area. (Alternatively, in the Add-ons and Themes area: Go to Dictionaries &#128213; > Manage Your Dictionaries &#x2699; > Install Add-on From File. Select the downloaded XPI file.)
+- In Thunderbird, go to Settings &#x2699; > Add-ons and Themes &#129513; > Drag the XPI file into the Add-ons and Themes area.
+
+(Alternatively, in the Add-ons and Themes area: go to Dictionaries &#128213; > Manage Your Dictionaries &#x2699; > Install Add-on From File. Select the downloaded XPI file.)
 
 # License
 
