@@ -16,7 +16,7 @@ jobs:
       run: |
         mkdir packages/libreoffice/dictionaries
         cp hunspell/* ${GITHUB_WORKSPACE}/packages/libreoffice/dictionaries/
-        sed -i 's/LIBRARY_VERSION/v${{ env.LIBRARY_VERSION_NUMBER }}/g' ${GITHUB_WORKSPACE}/packages/libreoffice/description.xml
+        sed -i 's/LIBRARY_VERSION/${{ env.LIBRARY_VERSION_NUMBER }}/g' ${GITHUB_WORKSPACE}/packages/libreoffice/description.xml
         cd ${GITHUB_WORKSPACE}/packages/libreoffice/
         zip ${GITHUB_WORKSPACE}/packages/libreoffice-${{ env.LIBRARY_VERSION_NUMBER }}.zip * -r
         mv -v ${GITHUB_WORKSPACE}/packages/libreoffice-${{ env.LIBRARY_VERSION_NUMBER }}.zip ${GITHUB_WORKSPACE}/packages/libreoffice-${{ env.LIBRARY_VERSION_NUMBER }}.oxt
@@ -38,7 +38,7 @@ jobs:
       run: |
         mkdir packages/mozilla/dictionaries
         cp hunspell/* ${GITHUB_WORKSPACE}/packages/mozilla/dictionaries/
-        sed -i 's/LIBRARY_VERSION/v${{ env.LIBRARY_VERSION_NUMBER }}/g' ${GITHUB_WORKSPACE}/packages/mozilla/manifest.json
+        sed -i 's/LIBRARY_VERSION/${{ env.LIBRARY_VERSION_NUMBER }}/g' ${GITHUB_WORKSPACE}/packages/mozilla/manifest.json
         cd ${GITHUB_WORKSPACE}/packages/mozilla/
         zip ${GITHUB_WORKSPACE}/packages/mozilla-${{ env.LIBRARY_VERSION_NUMBER }}.zip * -r
         mv -v ${GITHUB_WORKSPACE}/packages/mozilla-${{ env.LIBRARY_VERSION_NUMBER }}.zip ${GITHUB_WORKSPACE}/packages/mozilla-${{ env.LIBRARY_VERSION_NUMBER }}.xpi
