@@ -6,7 +6,8 @@ This is a spell-checker for the Cornish language. It uses word lists in the Stan
 
 This spell-checker checks each word independently, so it does not check grammar. For example, the spell-checker can check whether a word is a valid mutation. For example, *kath* (cat) soft mutates *gath* so the spell-checker will report both words as correct. However, the spell-checker cannot tell whether the mutation is valid in the context of the sentence. For example, *an kath* and *an gath* (the cat) both have correctly spelled words so the spell-checker would report both as correct, but only *an gath* is gramatically correct.
 
-The spell-checker is also not complete, as can be determined from the scores below. If you encounter an issue, please help us by [raising an issue here](https://github.com/cornish-tools/cornish-spellchecker/issues).
+> [!NOTE]
+> The spell-checker is also not complete, there is still coverage to improve (see the scores below). Some of the known gaps in coverage are listed [under issues](https://github.com/cornish-tools/cornish-spellchecker/issues). If you encounter an issue, please help us by [raising it here](https://github.com/cornish-tools/cornish-spellchecker/issues).
 
 ### Scores
 
@@ -15,7 +16,7 @@ Current scores:
 ![](badge/test-unique-words.svg)
 ![](badge/test-unique-noneng-words.svg)
 
-Total word coverage weights words by their frequency in examples. Unique words coverage is just what score by unique spelling. Scores are out of 1000. The non-English percentage uses the Ubuntu Hunspell dictionary to exclude words that appear in English, since the sample includes people and company names that are common in English. 
+The scores show an approximation of the coverage of the spell-checker. They are calculated from sample text in Standard Written Form. The total word coverage is the proportion of words from the text that pass the spell-checker. The unique words coverage is the proportion of words that pass the spell-checker by unique spelling. The non-English percentage uses the Ubuntu Hunspell dictionary to exclude words that appear in English, since the sample includes people and company names that are common in English. Scores are out of 1000.
 
 # Install
 
@@ -26,15 +27,13 @@ Note that, due to the licensing on this spell-checker (see below), it is not com
 ## LibreOffice
 
 - Ensure LibreOffice is installed.
-- Find the [latest release](https://github.com/cornish-tools/cornish-spellchecker/releases).
-- Download the LibreOffice OXT file.
+- Download the [latest](https://github.com/cornish-tools/cornish-spellchecker/releases) LibreOffice OXT file.
 - Double-click on that and the spell-checker will be installed into LibreOffice.
 
 ## Firefox
 
 - Ensure Firefox is installed.
-- Find the [latest release](https://github.com/cornish-tools/cornish-spellchecker/releases).
-- Download the Mozilla XPI file.
+- Download the [latest](https://github.com/cornish-tools/cornish-spellchecker/releases) Mozilla XPI file.
 - Double-click on that and the spell-checker will be installed into Firefox or drag the XPI file into Firefox.
 
 ## Thunderbird
@@ -42,9 +41,10 @@ Note that, due to the licensing on this spell-checker (see below), it is not com
 Thunderbird is an email client. Instructions can be found on [their website](https://support.mozilla.org/en-US/kb/installing-addon-thunderbird#w_a-slightly-less-ideal-case-install-from-a-downloaded-xpi-file).
 
 - Ensure Thunderbird is installed.
-- Find the [latest release](https://github.com/cornish-tools/cornish-spellchecker/releases).
-- Download the Mozilla XPI file.
-- In Thunderbird, go to Settings &#x2699; > Dictionaries &#128213; > Manage Your Dictionaries &#x2699; > Install Add-on From File. Select the downloaded XPI file.
+- Download the [latest](https://github.com/cornish-tools/cornish-spellchecker/releases) Mozilla XPI file.
+- In Thunderbird, go to Settings &#x2699; > Add-ons and Themes &#129513; > Drag the downloaded Mozilla XPI file into the Add-ons and Themes area.
+
+(Alternatively, in the Add-ons and Themes area: go to Dictionaries &#128213; > Manage Your Dictionaries &#x2699; > Install Add-on From File. Select the downloaded XPI file.)
 
 # License
 
