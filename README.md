@@ -2,6 +2,10 @@
 
 This is a spell-checker for the Cornish language. It uses word lists in the Standard Written Form that cover both Middle and Late Cornish combined. The spell-checker is based on Hunspell and but is also packaged for other applications that use the Hunspell framework, such as LibreOffice and Firefox.
 
+## Limitations
+
+Note this is a spell-checker based on Hunspell and does not check grammar - each word is treated in isolation. This means, for example, that the spell-checker can check whether a word is a valid mutation, but not whether the mutation is valid in the context of the sentence (e.g. does it follow _an_).
+
 ## Scores
 
 Current scores:
