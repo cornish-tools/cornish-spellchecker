@@ -15,7 +15,7 @@ Current scores:
 ![](badge/test-unique-words.svg)
 ![](badge/test-unique-noneng-words.svg)
 
-The scores are calculated from sample text in Standard Written Form. The total word coverage is the proportion of words from the text that pass the spell-checker. The unique words coverage is the proportion of words that pass the spell-checker by unique spelling. The non-English percentage uses the Ubuntu Hunspell dictionary to exclude words that appear in English, since the sample includes people and company names that are common in English. Scores are out of 1000.
+The scores show an approximation of the coverage of the spell-checker. They are calculated from sample text in Standard Written Form. The total word coverage is the proportion of words from the text that pass the spell-checker. The unique words coverage is the proportion of words that pass the spell-checker by unique spelling. The non-English percentage uses the Ubuntu Hunspell dictionary to exclude words that appear in English, since the sample includes people and company names that are common in English. Scores are out of 1000.
 
 # Install
 
