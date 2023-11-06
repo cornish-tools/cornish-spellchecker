@@ -36,7 +36,7 @@ Thunderbird is an email client. Instructions can be found on [their website](htt
 - Ensure Thunderbird is installed.
 - Find the [latest release](https://github.com/cornish-tools/cornish-spellchecker/releases).
 - Download the Mozilla XPI file.
-- Drag the XPI file into Thunderbird and the spell-checker will be installed.
+- In Thunderbird, go to Settings &#x2699; > Manage Your Dictionaries &#x2699; > Install Add-on From File. Select the downloaded XPI file.
 
 # Run
 
