@@ -1,5 +1,5 @@
 A Cornish spell-checker in Standard Written Form (SWF). This spell-checker combines all words from both Revived Middle Cornish (RMC) and Revived Late Cornish (RLC).
 
-The word list is from Akademi Kernewek (https://www.akademikernewek.org.uk/) provided by the Cornish Language Office (cornishlanguage@cornwall.gov.uk). Their word list is licenced under Creative Commons Non-Commercial (https://creativecommons.org/licenses/by-nc/4.0/). This spell-checker is released as the same and without warranty.
+The word list is from Akademi Kernewek (https://www.akademikernewek.org.uk/) provided by the Cornish Language Office (cornishlanguage@cornwall.gov.uk).
 
-https://cornish-tools.github.io/cornish-spellchecker/
+License: https://cornish-tools.github.io/cornish-spellchecker/#license
