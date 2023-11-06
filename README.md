@@ -1,6 +1,6 @@
-# Cornish Spell Checker
+# Cornish Spell-Checker
 
-This is a spellchecker for the Cornish language. It uses wordlists in the Standard Written Form that cover both Middle and Late Cornish combined. The spellchecker is based on Hunspell and but is also packaged for other applications that use the Hunspell framework, such as LibreOffice and Firefox.
+This is a spell-checker for the Cornish language. It uses wordlists in the Standard Written Form that cover both Middle and Late Cornish combined. The spell-checker is based on Hunspell and but is also packaged for other applications that use the Hunspell framework, such as LibreOffice and Firefox.
 
 ## Scores
 
@@ -20,14 +20,14 @@ The latest releases can be found in the [Releases](https://github.com/cornish-to
 - Ensure LibreOffice is installed.
 - Find the [latest release](https://github.com/cornish-tools/cornish-spellchecker/releases).
 - Download the LibreOffice OXT file.
-- Double-click on that and the dictionary will be installed into LibreOffice.
+- Double-click on that and the spell-checker will be installed into LibreOffice.
 
 ## Firefox
 
 - Ensure Firefox is installed.
 - Find the [latest release](https://github.com/cornish-tools/cornish-spellchecker/releases).
 - Download the Mozilla XPI file.
-- Double-click on that and the dictionary will be installed into Firefox or drag the XPI file into Firefox.
+- Double-click on that and the spell-checker will be installed into Firefox or drag the XPI file into Firefox.
 
 ## Thunderbird
 
@@ -36,7 +36,7 @@ Thunderbird is an email client. Instructions can be found on [their website](htt
 - Ensure Thunderbird is installed.
 - Find the [latest release](https://github.com/cornish-tools/cornish-spellchecker/releases).
 - Download the Mozilla XPI file.
-- Drag the XPI file into Thunderbird and the dictionary will be installed.
+- Drag the XPI file into Thunderbird and the spell-checker will be installed.
 
 # Run
 
@@ -48,13 +48,13 @@ A helpful tool is to use the `-m` flag to run morphological analysis:
 
 # Feedback
 
-This is a maintained project. It will benefit from feedback on issues identified with the dictionary. As such, please [raise issues here](https://github.com/cornish-tools/cornish-spellchecker/issues).
+This is a maintained project. It will benefit from feedback on issues identified with the spell-checker, please [raise issues here](https://github.com/cornish-tools/cornish-spellchecker/issues).
 
 # License
 
 Copyright (c) 2023 Cornish Tools, Akademi Kernewek
 
-The data herein is derived from the Akademi Kernewek wordlist provided by the Cornish Language Office, released under [Creative Commons Attribution NonCommercial](https://creativecommons.org/licenses/by-nc/4.0/). As such, these spellcheckers are released under the same licence and without warranty:
+The data herein is derived from the Akademi Kernewek wordlist provided by the Cornish Language Office, released under [Creative Commons Attribution NonCommercial](https://creativecommons.org/licenses/by-nc/4.0/). As such, this spell-checker is released under the same licence and without warranty:
 
 The software is provided "as is", without warranty of any kind, express or implied, including but not limited to the warranties of merchantability, fitness for a particular purpose and noninfringement. In no event shall the authors or copyright holders be liable for any claim, damages or other liability, whether in an action of contract, tort or otherwise, arising from, out of or in connection with the software or the use or other dealings in the software.
 

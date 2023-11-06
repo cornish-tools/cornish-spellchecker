@@ -1,7 +1,5 @@
-A Cornish dictionary in Standard Written Form (SWF). The word list is from Akademi Kernewek (https://www.akademikernewek.org.uk/) and Cornish Language Office (cornishlanguage@cornwall.gov.uk). Their word list is licenced under Creative Commons Non-Commercial (https://creativecommons.org/licenses/by-nc/4.0/).
+A Cornish spell-checker in Standard Written Form (SWF). This spell-checker combines all words from both Revived Middle Cornish (RMC) and Revived Late Cornish (RLC).
 
-The word list has been converted into a Hunspell format dictionary with basic mutation rules and minimal examples of verb conjugations.
+The word list is from Akademi Kernewek (https://www.akademikernewek.org.uk/) provided by the Cornish Language Office (cornishlanguage@cornwall.gov.uk). Their word list is licenced under Creative Commons Non-Commercial (https://creativecommons.org/licenses/by-nc/4.0/). This spell-checker is released as the same and without warranty.
 
-This dictionary combines all words from both Revived Middle Cornish (RMC) and Revived Late Cornish (RLC).
-
-Later versions will be more complete and ought to separate out RMC and RLC.
+https://cornish-tools.github.io/cornish-spellchecker/

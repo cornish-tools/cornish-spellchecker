@@ -4,8 +4,8 @@
     <identifier value="org.libreoffice.dictionaries.gerlyverkernewek" />
     <display-name>
         <name lang="kw-GB">Gerlyver Kernowek - FSS</name>
-        <name lang="en-GB">Cornish Dictionary - Standard Written Form</name>
-        <name lang="en-US">Cornish Dictionary - Standard Written Form</name>
+        <name lang="en-GB">Cornish Spell Checker - Standard Written Form</name>
+        <name lang="en-US">Cornish Spell Checker - Standard Written Form</name>
     </display-name>
     <platform value="all" />
     <dependencies>
