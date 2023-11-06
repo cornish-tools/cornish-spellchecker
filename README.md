@@ -26,15 +26,13 @@ Note that, due to the licensing on this spell-checker (see below), it is not com
 ## LibreOffice
 
 - Ensure LibreOffice is installed.
-- Find the [latest release](https://github.com/cornish-tools/cornish-spellchecker/releases).
-- Download the LibreOffice OXT file.
+- Download the [latest](https://github.com/cornish-tools/cornish-spellchecker/releases) LibreOffice OXT file.
 - Double-click on that and the spell-checker will be installed into LibreOffice.
 
 ## Firefox
 
 - Ensure Firefox is installed.
-- Find the [latest release](https://github.com/cornish-tools/cornish-spellchecker/releases).
-- Download the Mozilla XPI file.
+- Download the [latest](https://github.com/cornish-tools/cornish-spellchecker/releases) Mozilla XPI file.
 - Double-click on that and the spell-checker will be installed into Firefox or drag the XPI file into Firefox.
 
 ## Thunderbird
@@ -42,8 +40,7 @@ Note that, due to the licensing on this spell-checker (see below), it is not com
 Thunderbird is an email client. Instructions can be found on [their website](https://support.mozilla.org/en-US/kb/installing-addon-thunderbird#w_a-slightly-less-ideal-case-install-from-a-downloaded-xpi-file).
 
 - Ensure Thunderbird is installed.
-- Find the [latest release](https://github.com/cornish-tools/cornish-spellchecker/releases).
-- Download the Mozilla XPI file.
+- Download the [latest](https://github.com/cornish-tools/cornish-spellchecker/releases) Mozilla XPI file.
 - In Thunderbird, go to Settings &#x2699; > Dictionaries &#128213; > Manage Your Dictionaries &#x2699; > Install Add-on From File. Select the downloaded XPI file.
 
 # License
