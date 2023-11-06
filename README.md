@@ -6,7 +6,8 @@ This is a spell-checker for the Cornish language. It uses word lists in the Stan
 
 This spell-checker checks each word independently, so it does not check grammar. For example, the spell-checker can check whether a word is a valid mutation. For example, *kath* (cat) soft mutates *gath* so the spell-checker will report both words as correct. However, the spell-checker cannot tell whether the mutation is valid in the context of the sentence. For example, *an kath* and *an gath* (the cat) both have correctly spelled words so the spell-checker would report both as correct, but only *an gath* is gramatically correct.
 
-The spell-checker is also not complete, there is still coverage to improve (see the scores below). Some of the known gaps in coverage are listed [under issues](https://github.com/cornish-tools/cornish-spellchecker/issues). If you encounter an issue, please help us by [raising it here](https://github.com/cornish-tools/cornish-spellchecker/issues).
+> [!NOTE]
+> The spell-checker is also not complete, there is still coverage to improve (see the scores below). Some of the known gaps in coverage are listed [under issues](https://github.com/cornish-tools/cornish-spellchecker/issues). If you encounter an issue, please help us by [raising it here](https://github.com/cornish-tools/cornish-spellchecker/issues).
 
 ### Scores
 
