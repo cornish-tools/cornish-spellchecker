@@ -1,6 +1,6 @@
 # Cornish Spell-Checker
 
-This is a spell-checker for the Cornish language. It uses word lists in the Standard Written Form that cover both Middle and Late Cornish combined. The spell-checker is based on Hunspell and but is also packaged for other applications that use the Hunspell framework, such as LibreOffice and Firefox.
+This is a spell-checker for the Cornish language. It uses word lists in the Standard Written Form that cover both Middle and Late Cornish combined. The spell-checker is based on Hunspell and but is also packaged for other applications that use the Hunspell framework: LibreOffice, Firefox and Thunderbird (email client).
 
 ## Limitations
 
@@ -45,14 +45,6 @@ Thunderbird is an email client. Instructions can be found on [their website](htt
 - Find the [latest release](https://github.com/cornish-tools/cornish-spellchecker/releases).
 - Download the Mozilla XPI file.
 - In Thunderbird, go to Settings &#x2699; > Dictionaries &#128213; > Manage Your Dictionaries &#x2699; > Install Add-on From File. Select the downloaded XPI file.
-
-# Run
-
-## Hunspell
-
-A helpful tool is to use the `-m` flag to run morphological analysis:
-* po - part of speech
-* ds - cause of the affix
 
 # License
 
