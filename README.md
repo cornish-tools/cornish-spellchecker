@@ -4,9 +4,11 @@ This is a spell-checker for the Cornish language. It uses word lists in the Stan
 
 ## Limitations
 
-Note this is a spell-checker based on Hunspell and does not check grammar - each word is treated in isolation. This means, for example, that the spell-checker can check whether a word is a valid mutation, but not whether the mutation is valid in the context of the sentence (e.g. does it follow _an_).
+This spell-checker checks each word independently, so it does not check grammar. For example, the spell-checker can check whether a word is a valid mutation. For example, *kath*<sub>&female;</sub> (cat) soft mutates *gath*. The spell-checker cannot tell whether the mutation is valid in the context of the sentence. For example, *an kath* and *an gath* (the cat) both have correctly spelled words so the spell-checker would report both as correct, but only *an gath* is gramatically correct.
 
-## Scores
+The spell-checker is also not complete, as can be determined from the scores below. If you encounter an issue, please help us by [raising an issue here](https://github.com/cornish-tools/cornish-spellchecker/issues).
+
+### Scores
 
 Current scores:
 ![](badge/test-total-words.svg)
@@ -51,10 +53,6 @@ Thunderbird is an email client. Instructions can be found on [their website](htt
 A helpful tool is to use the `-m` flag to run morphological analysis:
 * po - part of speech
 * ds - cause of the affix
-
-# Feedback
-
-This is a maintained project. It will benefit from feedback on issues identified with the spell-checker, please [raise issues here](https://github.com/cornish-tools/cornish-spellchecker/issues).
 
 # License
 
