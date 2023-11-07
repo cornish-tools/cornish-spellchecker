@@ -9,5 +9,6 @@
     }
   },
   "name": "Cornish Spell-Checker - Standard Written Form",
-  "manifest_version": 2
+  "manifest_version": 2,
+  "description": "A spell-checker for the Cornish language in the Standard Written Form (SWF) derived from word lists from Akademi Kernewek. For non-commercial use (see license).",
 }
