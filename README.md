@@ -7,7 +7,7 @@ This is a spell-checker for the Cornish language. It uses word lists in the Stan
 
 The main part of the spell-checker is derived from the Akademi Kernewek word list provided by the Cornish Language Office. 
 
-Thanks to the Cornish Language Office and Akademi Kernewek for their support in creating this spell-checker. Cornish Tools is not affiliated with either.
+Thanks to the Cornish Language Office and Akademi Kernewek for their support in creating this spell-checker, particularly  to Sam Rogerson for his help and advice thoughout this project. Cornish Tools is not affiliated with either Cornish Language Office or Akademi Kernewek.
 
 ## Limitations
 
@@ -57,9 +57,7 @@ Thunderbird is an email client. Instructions can be found on [their website](htt
 
 Copyright (c) 2023 Cornish Tools, Akademi Kernewek
 
-The main part of the spell-checker is derived from the Akademi Kernewek word list provided by the Cornish Language Office, released under Creative Commons Attribution NonCommercial 4.0. As such, this spell-checker is released under the same license and is released without warranty:
-
-The software is provided “as is”, without warranty of any kind, express or implied, including but not limited to the warranties of merchantability, fitness for a particular purpose and noninfringement. In no event shall the authors or copyright holders be liable for any claim, damages or other liability, whether in an action of contract, tort or otherwise, arising from, out of or in connection with the software or the use or other dealings in the software.
+The main part of the spell-checker is derived from the Akademi Kernewek word list provided by the Cornish Language Office, released under Creative Commons Attribution NonCommercial 4.0. This spell-checker is released under the same license <https://creativecommons.org/licenses/by-nc/4.0/>.
 
 # Bibliography
 
