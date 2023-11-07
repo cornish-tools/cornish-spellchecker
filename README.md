@@ -1,6 +1,11 @@
 # Cornish Spell-Checker
 
+> [!NOTE]
+> For Non-Commercial Use. See license below.
+
 This is a spell-checker for the Cornish language. It uses word lists in the Standard Written Form that cover both Middle and Late Cornish combined. The spell-checker is based on Hunspell and but is also packaged for other applications that use the Hunspell framework: LibreOffice, Firefox and Thunderbird (email client).
+
+The main part of the spell-checker is derived from the Akademi Kernewek word list provided by the Cornish Language Office. Cornish Tools is not affiliated with Akademi Kernewek.
 
 ## Limitations
 
@@ -50,9 +55,9 @@ Thunderbird is an email client. Instructions can be found on [their website](htt
 
 Copyright (c) 2023 Cornish Tools, Akademi Kernewek
 
-The main part of the dictionary is derived from the Akademi Kernewek word list provided by the Cornish Language Office, released under Creative Commons Attribution NonCommercial 4.0. As such, this spell-checker is released under the same license and without warranty:
+The main part of the spell-checker is derived from the Akademi Kernewek word list provided by the Cornish Language Office, released under Creative Commons Attribution NonCommercial 4.0. As such, this spell-checker is released under the same license and is released without warranty:
 
-The software is provided "as is", without warranty of any kind, express or implied, including but not limited to the warranties of merchantability, fitness for a particular purpose and noninfringement. In no event shall the authors or copyright holders be liable for any claim, damages or other liability, whether in an action of contract, tort or otherwise, arising from, out of or in connection with the software or the use or other dealings in the software.
+The software is provided “as is”, without warranty of any kind, express or implied, including but not limited to the warranties of merchantability, fitness for a particular purpose and noninfringement. In no event shall the authors or copyright holders be liable for any claim, damages or other liability, whether in an action of contract, tort or otherwise, arising from, out of or in connection with the software or the use or other dealings in the software.
 
 # Bibliography
 
