@@ -1,4 +1,4 @@
-20993
+21006
 1920ow
 30
 30ves
@@ -5815,8 +5815,10 @@ ethons/MaMhMlMm po:VERB
 ethves po:NUMBER
 ethves/AfMaMlPw po:NOUN_MASCULINE
 ethys/MaMhMlMm po:VERB
+ettans
 etth/MaMhMlMmVs po:VERB_STEM
 etthw/MaMhMlMmVs po:VERB_STEM
+etto
 eur
 eur/AfMaMlPx po:NOUN_FEMININE
 eurdal/AfMaMlPw po:NOUN_MASCULINE
@@ -20720,6 +20722,7 @@ ydhyn/AfMaMl po:NOUN_PLURAL
 ydn
 ydn/AfMaMl po:NOUN_PLURAL
 ydn/MhMl po:ADJECTIVE
+ydni
 ydyot/AfMaMlPy po:NOUN_MASCULINE
 yeghes
 yeghes/AfMaMl po:NOUN_MASCULINE
@@ -20863,8 +20866,17 @@ ynkressyans/AfMaMl po:NOUN_UNDETERMINED
 ynn
 ynn/AfMaMl po:NOUN_PLURAL
 ynn/MhMl po:ADJECTIVE
+ynna
+ynnam
+ynnans
+ynni
 ynni/AfMaMl po:NOUN_MASCULINE
 ynnikk/MaMhMlMmVs po:VERB_STEM
+ynno
+ynnon
+ynnos
+ynnov
+ynnowgh
 ynperth/MaMhMlMmViVr po:VERB_STEM
 ynperthi/MaMhMlMm po:VERB
 ynpertth/MaMhMlMmVs po:VERB_STEM
@@ -20975,6 +20987,7 @@ yth po:PARTICLE
 yth/MaMhMlMm po:VERB
 ytho po:CONJUCTION
 ytho/Fp po:ADVERB
+ytno
 yurl/AfMaMlPy po:NOUN_MASCULINE
 yw
 yw/MaMhMlMm po:VERB
