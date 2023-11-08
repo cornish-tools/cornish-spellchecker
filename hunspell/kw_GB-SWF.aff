@@ -209,6 +209,34 @@ SFX Vr 0 sewgh [^hy] ds:pluperfect-2pp
 SFX Vr 0 sens [^hy] ds:pluperfect-3pp
 SFX Vr 0 sys [^hy] ds:pluperfect-0p
 
+SFX Vv Y 13
+SFX Vv 0 av . ds:present-1ps
+SFX Vv 0 ons . ds:present-3pp
+SFX Vv 0 as . ds:preterite-3ps
+SFX Vv 0 sons . ds:preterite-3pp
+SFX Vv 0 en . ds:imperfect-1p
+SFX Vv 0 es . ds:imperfect-2ps
+SFX Vv 0 ens . ds:imperfect-3pp
+SFX Vv 0 sen . ds:pluperfect-1p
+SFX Vv 0 ses . ds:pluperfect-2ps
+SFX Vv 0 sa . ds:pluperfect-3ps
+SFX Vv 0 sewgh . ds:pluperfect-2pp
+SFX Vv 0 sens . ds:pluperfect-3pp
+SFX Vv 0 ewgh . ds:imperfect-2pp
+
+SFX Vw Y 11
+SFX Vw 0 ydh . ds:present-2ps
+SFX Vw 0 yn . ds:present-1pp
+SFX Vw 0 sowgh . ds:preterite-2pp
+SFX Vw 0 owgh . ds:present-2pp
+SFX Vw 0 ir . ds:present-0p
+SFX Vw 0 is . ds:preterite-1ps
+SFX Vw 0 sys . ds:preterite-2ps
+SFX Vw 0 syn . ds:preterite-1pp
+SFX Vw 0 ys . ds:imperfect-0p
+SFX Vw 0 sys . ds:pluperfect-0p
+SFX Vw 0 ewgh . ds:imperfect-2pp
+
 SFX Va Y 1
 SFX Va 0 a . ds:imperfect-3ps
 
@@ -230,3 +258,20 @@ SFX Vs 0 a . ds:subj-imperfect-3ps
 SFX Vs 0 ewgh . ds:subj-imperfect-2pp
 SFX Vs 0 ens . ds:subj-imperfect-3pp
 SFX Vs 0 ys . ds:subj-imperfect-0p
+
+SFX Vt Y 8
+SFX Vt 0 o . ds:subj-present-3ps
+SFX Vt 0 ons . ds:subj-present-3pp
+SFX Vt 0 er . ds:subj-present-0p
+SFX Vt 0 en . ds:subj-imperfect-1p
+SFX Vt 0 es . ds:subj-imperfect-2ps
+SFX Vt 0 a . ds:subj-imperfect-3ps
+SFX Vt 0 ewgh . ds:subj-imperfect-2pp
+SFX Vt 0 ens . ds:subj-imperfect-3pp
+
+SFX Vu Y 5
+SFX Vu 0 iv . ds:subj-present-1ps
+SFX Vu 0 i . ds:subj-present-2ps
+SFX Vu 0 yn . ds:subj-present-1pp
+SFX Vu 0 owgh . ds:subj-present-2pp
+SFX Vu 0 ys . ds:subj-imperfect-0p
