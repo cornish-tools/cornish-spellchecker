@@ -1,4 +1,4 @@
-21006
+21120
 1920ow
 30
 30ves
@@ -884,10 +884,7 @@ Yow/AfMaMl po:NOUN_MASCULINE
 Zambi/Ma po:NOUN_TOPOLOGICAL
 Zimbabwe/Ma po:NOUN_TOPOLOGICAL
 a
-a po:CONJUCTION
 a po:CONTRACTION
-a po:INTERJECTION
-a po:PARTICLE
 a-ban po:CONJUCTION
 a-barth po:INTERJECTION
 a-barth/Fp po:ADVERB
@@ -919,12 +916,10 @@ a-dermyn/Fp po:ADVERB
 a-dhadn/Fp po:PREPOSITION
 a-dhann
 a-dhann/AfMaMl po:NOUN_PLURAL
-a-dhann/Fp po:PREPOSITION
 a-dhedro/Fp po:ADVERB
 a-dhelergh/Fp po:ADVERB
 a-dhelergh/Fp po:PREPOSITION
-a-dherag/Fp po:ADVERB
-a-dherag/Fp po:PREPOSITION
+a-dherag
 a-dhesempis/Fp po:ADVERB
 a-dhevis/MhMl po:ADJECTIVE
 a-dhewis/MhMl po:ADJECTIVE
@@ -937,7 +932,8 @@ a-dhiwedhes/Fp po:ADVERB
 a-dhyghow
 a-dhyghow/Fp po:ADVERB
 a-dhyghowbarth/Fp po:ADVERB
-a-dhywar/Fp po:PREPOSITION
+a-dhywar
+a-dhyworth
 a-dre
 a-dre/Fp po:ADVERB
 a-dreus
@@ -978,8 +974,7 @@ a-lergh/Fp po:ADVERB
 a-les/Fp po:ADVERB
 a-rag
 a-rag/Fp po:ADVERB
-a-rag/MhMl po:ADJECTIVE
-a-ugh/Fp po:ADVERB
+a-ugh
 a-ugh/Fp po:PREPOSITION
 a-vadn/Fp po:ADVERB
 a-vann/Fp po:ADVERB
@@ -999,7 +994,6 @@ a-woles/Fp po:PREPOSITION
 a-wosa/Fp po:ADVERB
 a/AfMaMl po:NOUN_PLURAL
 a/Fp po:ADVERB
-a/Fp po:PREPOSITION
 a/MhMl po:ADJECTIVE
 abakus/AfMaMl po:NOUN_UNDETERMINED
 abas/AfMaMlPw po:NOUN_MASCULINE
@@ -1095,7 +1089,14 @@ agan/Ma po:NOUN_PRONOUN
 agas
 agas/Ma po:NOUN_PRONOUN
 ages
-ages/Fp po:PREPOSITION
+ageson
+agesos
+agesov
+agesowgh
+agessa
+agessans
+agessi
+agesso
 agh po:INTERJECTION
 agh/AfMaMlPw po:NOUN_FEMININE
 aghel
@@ -1114,8 +1115,14 @@ agronomydh/AfMaMlPq po:NOUN_MASCULINE
 agronomydhes/AfMaMlPw po:NOUN_FEMININE
 agwedh/AfMaMl po:NOUN_FEMININE
 agworr/MaMhMlMmVs po:VERB_STEM
+ahana
+ahanam
+ahanan
 ahanan/Fp po:ADVERB
+ahanas
 ahanav
+ahano
+ahanowgh
 ahwer
 ahwer!
 ahwer/AfMaMl po:NOUN_MASCULINE
@@ -1347,10 +1354,14 @@ andhiogeledh/AfMaMlPw po:NOUN_MASCULINE
 andorrek/MhMl po:ADJECTIVE
 androw/AfMaMlPx po:NOUN_MASCULINE
 androweyth/AfMaMlPx po:NOUN_MASCULINE
+anedh
 anedh/MaMhMlMmViVr po:VERB_STEM
+anedha
+anedhans
 anedhel
 anedhel/AfMaMl po:NOUN_PLURAL
 anedhel/MhMl po:ADJECTIVE
+anedhi
 anedhi/Ma po:NOUN_PRONOUN
 anedhi/MaMhMlMm po:VERB
 anedhow/AfMaMl po:NOUN_PLURAL
@@ -1454,6 +1465,7 @@ anlowr/MhMl po:ADJECTIVE
 annedh
 annedh/AfMaMl po:NOUN_FEMININE
 annedh/AfMaMl po:NOUN_PLURAL
+anodho
 anodho/Ma po:NOUN_PRONOUN
 anorak/AfMaMlPy po:NOUN_MASCULINE
 anorganek/MhMl po:ADJECTIVE
@@ -1964,8 +1976,15 @@ avanen/AfMaMl po:NOUN_FEMININE
 avayly/MaMhMlMmVaVrVs po:VERB_STEM
 avaylya/MaMhMlMm po:VERB
 avel
-avel/Fp po:ADVERB
 avel/MhMl po:ADJECTIVE
+avella
+avellans
+avelli
+avello
+avelon
+avelos
+avelov
+avelowgh
 aven/AfMaMlPx po:NOUN_MASCULINE
 avenow/AfMaMl po:NOUN_PLURAL
 aventur/AfMaMl po:NOUN_MASCULINE
@@ -4068,15 +4087,15 @@ dhe/Fp po:ADVERB
 dhe/MhMl po:ADJECTIVE
 dhebm
 dhedha
-dhedhan
 dhedhi
 dhehen
 dhelergh
 dhemedhyans
 dhen
 dhens
+dherag
 dherag/Fp po:ADVERB
-dherag/Fp po:PREPOSITION
+dhes
 dhesempis/Fp po:ADVERB
 dhesin
 dhesin/AfMaMl po:NOUN_PLURAL
@@ -4090,7 +4109,6 @@ dhewboynt
 dhewbries
 dhewdhen
 dhewfrik
-dhewgh
 dhewis
 dheân
 dhe’n
@@ -4101,6 +4119,7 @@ dhifun
 dhillas
 dhis
 dhis!
+dhiso
 dhisplegyans
 dhiw
 dhiwedhes
@@ -4112,6 +4131,12 @@ dhor
 dhorn
 dhort
 dhort/Fp po:PREPOSITION
+dhortam
+dhortans
+dhorti
+dhortis
+dhorto
+dhortyn
 dhownvor
 dhownvor/AfMaMl po:NOUN_PLURAL
 dhowr
@@ -4122,13 +4147,20 @@ dhu
 dhuryen
 dhybri
 dhymm
+dhymmo
 dhyn
-dhywar/Fp po:PREPOSITION
+dhywar
 dhywarlinen/MhMl po:ADJECTIVE
 dhywgh
 dhywgh!
+dhyworta
 dhyworth
-dhyworth/Fp po:PREPOSITION
+dhyworthis
+dhyworthiv
+dhyworthowgh
+dhyworthyn
+dhyworti
+dhyworto
 di
 di po:PREFIX
 di/Fp po:ADVERB
@@ -4995,6 +5027,15 @@ dre/MaMhMlMmViVrVs po:VERB_STEM
 dre/MhMl po:ADJECTIVE
 dredanel/AfMaMl po:NOUN_PLURAL
 dredh/Fp po:PREPOSITION
+dredha
+dredham
+dredhans
+dredhi
+dredho
+dredhon
+dredhos
+dredhov
+dredhowgh
 drefen po:CONJUCTION
 dregydn/MaMhMlMmVaVr po:VERB_STEM
 dregydna/MaMhMlMm po:VERB
@@ -5028,13 +5069,20 @@ dren/AfMaMl po:NOUN_MASCULINE
 drenek/MhMl po:ADJECTIVE
 dres
 dres/Fp po:ADVERB
-dres/Fp po:PREPOSITION
 dres/MhMl po:ADJECTIVE
 dreslebm/MaMhMlMmViVr po:VERB_STEM
 dreslebmel/MaMhMlMm po:VERB
 dreslebmm/MaMhMlMmVs po:VERB_STEM
 dreslemm/MaMhMlMmViVrVs po:VERB_STEM
 dreslemmel/MaMhMlMm po:VERB
+dreson
+dresos
+dresov
+dresowgh
+dresta
+drestans
+dresti
+dresto
 dreth
 drevas
 drevel/AfMaMl po:NOUN_PLURAL
@@ -6571,6 +6619,8 @@ gamm
 gan
 gan/Ma po:NOUN_PRONOUN
 ganek/MhMl po:ADJECTIVE
+ganjans
+ganjo
 gannys
 ganow
 ganow/AfMaMl po:NOUN_PLURAL
@@ -6581,8 +6631,8 @@ ganowek/MhMl po:ADJECTIVE
 gans
 gans/AfMaMl po:NOUN_PLURAL
 gans/Fp po:ADVERB
-gans/Fp po:PREPOSITION
 gans/MhMl po:ADJECTIVE
+gansa
 ganso
 ganstell
 gapel
@@ -6674,8 +6724,10 @@ gen
 gen/AfMaMlPx po:NOUN_FEMININE
 gen/Fp po:PREPOSITION
 gen/MhMl po:ADJECTIVE
+gena
 genam
 gene
+genen
 genes
 genesiges/AfMaMlPw po:NOUN_FEMININE
 genesigeth
@@ -6688,7 +6740,10 @@ genev
 genn/AfMaMlPw po:NOUN_MASCULINE
 genn/MaMhMlMmVaVrVs po:VERB_STEM
 genna/MaMhMlMm po:VERB
+geno
 genowgh
+gens
+gensi
 genys
 genys/MhMl po:ADJECTIVE
 ger
@@ -8525,8 +8580,8 @@ ha’n
 heb
 heb/AfMaMl po:NOUN_PLURAL
 heb/Fp po:ADVERB
-heb/Fp po:PREPOSITION
 heb/MhMl po:ADJECTIVE
+hebam
 hebask/MaMhMlMmVaVv po:VERB_STEM
 hebask/MhMl po:ADJECTIVE
 hebaska/MaMhMlMm po:VERB
@@ -8535,12 +8590,20 @@ hebaskh/MaMhMlMmVaViVr po:VERB_STEM
 hebaskhah/MaMhMlMmVs po:VERB_STEM
 hebaskhe/MaMhMlMm po:VERB
 hebaskk/MaMhMlMmVt po:VERB_STEM
+hebdha
+hebdhans
+hebdhi
+hebdho
 hebesk/MaMhMlMmVw po:VERB_STEM
 heblek/MhMl po:ADJECTIVE
 hebleth/MhMl po:ADJECTIVE
 hebma
 hebma!
 hebma/Ma po:NOUN_PRONOUN
+hebon
+hebos
+hebov
+hebowgh
 hebyskk/MaMhMlMmVu po:VERB_STEM
 hedardh/MhMl po:ADJECTIVE
 hedeuth/MhMl po:ADJECTIVE
@@ -15044,14 +15107,25 @@ orsik/AfMaMl po:NOUN_MASCULINE
 ort
 ort/Fp po:ADVERB
 ort/Fp po:PREPOSITION
+orta
+ortam
+ortans
 orth
 orth/Fp po:ADVERB
-orth/Fp po:PREPOSITION
+orthis
+orthiv
 orthiv!
+ortho
 orthopedek/AfMaMl po:NOUN_FEMININE
 orthopedek/MhMl po:ADJECTIVE
 orthopedydh/AfMaMlPq po:NOUN_MASCULINE
 orthopedydhes/AfMaMlPw po:NOUN_FEMININE
+orthowgh
+orthyn
+orti
+ortis
+orto
+ortyn
 os
 os/MaMhMlMm po:VERB
 os/MaMhMlMmVr po:VERB_STEM
@@ -17269,7 +17343,17 @@ ruvanes/AfMaMlPw po:NOUN_FEMININE
 ruvaneth/AfMaMlPw po:NOUN_FEMININE
 ruwvanes/AfMaMl po:NOUN_FEMININE
 rwandek/MhMl po:ADJECTIVE
+ryb
 ryb/Fp po:PREPOSITION
+rybam
+rybdha
+rybdhans
+rybdhi
+rybdho
+rybon
+rybos
+rybov
+rybowgh
 rych/MhMl po:ADJECTIVE
 rychedh/AfMaMlPw po:NOUN_MASCULINE
 rychh/MaMhMlMmVaViVr po:VERB_STEM
@@ -20574,8 +20658,8 @@ war-wartha/Fp po:ADVERB
 war-woles/Fp po:ADVERB
 war/AfMaMl po:NOUN_PLURAL
 war/Fp po:ADVERB
-war/Fp po:PREPOSITION
 war/MhMl po:ADJECTIVE
+wara
 warak
 warbarth
 warden/AfMaMlPs po:NOUN_MASCULINE
@@ -20589,7 +20673,17 @@ warlinen/MhMl po:ADJECTIVE
 warn
 warn po:CONTRACTION
 warn-ugens
+warnam
+warnan
+warnas
+warnav
+warnedha
+warnedhans
+warnedhi
 warneth/AfMaMl po:NOUN_FEMININE
+warno
+warnodho
+warnowgh
 wary/MaMhMlMmVaVrVs po:VERB_STEM
 warya/MaMhMlMm po:VERB
 wast/AfMaMlPy po:NOUN_MASCULINE
@@ -20651,11 +20745,24 @@ wordhi/MhMl po:ADJECTIVE
 worfen
 worhemmyn
 wormola
+wort
+worta
 wortalleth/Fp po:ADVERB
+wortam
+wortans
 worth
 worth/Fp po:ADVERB
 worth/Fp po:PREPOSITION
+worthis
+worthiv
+wortho
+worthowgh
+worthyn
+worti
+wortis
 wortiwedh/Fp po:ADVERB
+worto
+wortyn
 worwedha
 wos/AfMaMl po:NOUN_FEMININE
 wos/Fp po:ADVERB
@@ -20801,7 +20908,6 @@ yn po:PARTICLE
 yn-bann/Fp po:ADVERB
 yn-dann
 yn-dann/Fp po:ADVERB
-yn-dann/Fp po:PREPOSITION
 yn-dann/MhMl po:ADJECTIVE
 yn-hons/Fp po:ADVERB
 yn-kerdh
@@ -20915,7 +21021,15 @@ ynterfassow/AfMaMl po:NOUN_PLURAL
 ynterrewlivek
 ynterrewlivek/AfMaMl po:NOUN_PLURAL
 yntra
-yntra/Fp po:PREPOSITION
+yntredha
+yntredham
+yntredhans
+yntredhi
+yntredho
+yntredhon
+yntredhos
+yntredhov
+yntredhowgh
 yntynn/MaMhMlMmVu po:VERB_STEM
 ynvroyades/AfMaMlPw po:NOUN_FEMININE
 ynvroyas/AfMaMl po:NOUN_MASCULINE
