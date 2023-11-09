@@ -163,7 +163,7 @@ SFX Fp 0 a [^ls]
 # Verbs
 
 # Regular verbs - non-subjunctive GMC 180, 187, 188
-SFX Vr Y 45
+SFX Vr Y 33
 SFX Vr 0 asys h ds:-he-preterite-2ps
 SFX Vr 0 asyn h ds:-he-preterite-1pp
 SFX Vr 0 asowgh h ds:-he-preterite-2pp
@@ -174,41 +174,29 @@ SFX Vr 0 asa h ds:-he-pluperfect-3ps
 SFX Vr 0 asewgh h ds:-he-pluperfect-2pp
 SFX Vr 0 asens h ds:-he-pluperfect-3pp
 SFX Vr 0 asys h ds:-he-pluperfect-0p
-SFX Vr y ir y ds:-y-present-0p
-SFX Vr y is y ds:preterite-1ps
-SFX Vr y sys y ds:preterite-2ps
-SFX Vr y syn y ds:preterite-1pp
-SFX Vr y sowgh y ds:preterite-2pp
-SFX Vr y sons y ds:preterite-3pp
-SFX Vr y sen y ds:pluperfect-1p
-SFX Vr y ses y ds:pluperfect-2ps
-SFX Vr y sa y ds:pluperfect-3ps
-SFX Vr y sewgh y ds:pluperfect-2pp
-SFX Vr y sens y ds:pluperfect-3pp
-SFX Vr y sys y ds:pluperfect-0p
 SFX Vr 0 av . ds:present-1ps
 SFX Vr 0 ydh . ds:present-2ps
 SFX Vr 0 yn . ds:present-1pp
 SFX Vr 0 owgh . ds:present-2pp
 SFX Vr 0 ons . ds:present-3pp
-SFX Vr 0 ir [^y] ds:present-0p
-SFX Vr 0 is [^y] ds:preterite-1ps
-SFX Vr 0 sys [^hy] ds:preterite-2ps
+SFX Vr 0 ir . ds:present-0p
+SFX Vr 0 is . ds:preterite-1ps
+SFX Vr 0 sys [^h] ds:preterite-2ps
 SFX Vr 0 as . ds:preterite-3ps
-SFX Vr 0 syn [^hy] ds:preterite-1pp
-SFX Vr 0 sowgh [^hy] ds:preterite-2pp
-SFX Vr 0 sons [^hy] ds:preterite-3pp
+SFX Vr 0 syn [^h] ds:preterite-1pp
+SFX Vr 0 sowgh [^h] ds:preterite-2pp
+SFX Vr 0 sons [^h] ds:preterite-3pp
 SFX Vr 0 en . ds:imperfect-1p
 SFX Vr 0 es . ds:imperfect-2ps
 SFX Vr 0 ewgh . ds:imperfect-2pp
 SFX Vr 0 ens . ds:imperfect-3pp
 SFX Vr 0 ys . ds:imperfect-0p
-SFX Vr 0 sen [^hy] ds:pluperfect-1p
-SFX Vr 0 ses [^hy] ds:pluperfect-2ps
-SFX Vr 0 sa [^hy] ds:pluperfect-3ps
-SFX Vr 0 sewgh [^hy] ds:pluperfect-2pp
-SFX Vr 0 sens [^hy] ds:pluperfect-3pp
-SFX Vr 0 sys [^hy] ds:pluperfect-0p
+SFX Vr 0 sen [^h] ds:pluperfect-1p
+SFX Vr 0 ses [^h] ds:pluperfect-2ps
+SFX Vr 0 sa [^h] ds:pluperfect-3ps
+SFX Vr 0 sewgh [^h] ds:pluperfect-2pp
+SFX Vr 0 sens [^h] ds:pluperfect-3pp
+SFX Vr 0 sys [^h] ds:pluperfect-0p
 
 SFX Vv Y 13
 SFX Vv 0 av . ds:present-1ps
@@ -237,6 +225,32 @@ SFX Vw 0 syn . ds:preterite-1pp
 SFX Vw 0 ys . ds:imperfect-0p
 SFX Vw 0 sys . ds:pluperfect-0p
 SFX Vw 0 ewgh . ds:imperfect-2pp
+
+
+# Regular verbs - non-subjunctive GMC 180, 187, 188
+SFX Vy Y 22
+SFX Vy 0 yewgh . ds:imperfect-2pp
+SFX Vy 0 ir . ds:present-0p
+SFX Vy 0 is . ds:preterite-1ps
+SFX Vy 0 sa . ds:pluperfect-3ps
+SFX Vy 0 sen . ds:pluperfect-1p
+SFX Vy 0 sens . ds:pluperfect-3pp
+SFX Vy 0 ses . ds:pluperfect-2ps
+SFX Vy 0 sewgh . ds:pluperfect-2pp
+SFX Vy 0 sons . ds:preterite-3pp
+SFX Vy 0 sowgh . ds:preterite-2pp
+SFX Vy 0 syn . ds:preterite-1pp
+SFX Vy 0 sys . ds:pluperfect-0p-preterite-2ps
+SFX Vy 0 yas . ds:preterite-3ps
+SFX Vy 0 yav . ds:present-1ps
+SFX Vy 0 ydh . ds:present-2ps
+SFX Vy 0 yen . ds:imperfect-1p
+SFX Vy 0 yens . ds:imperfect-3pp
+SFX Vy 0 yes . ds:imperfect-2ps
+SFX Vy 0 yn . ds:present-1pp
+SFX Vy 0 yons . ds:present-3pp
+SFX Vy 0 yowgh . ds:present-2pp
+SFX Vy 0 ys . ds:imperfect-0p
 
 SFX Va Y 1
 SFX Va 0 a . ds:imperfect-3ps
@@ -276,3 +290,19 @@ SFX Vu 0 i . ds:subj-present-2ps
 SFX Vu 0 yn . ds:subj-present-1pp
 SFX Vu 0 owgh . ds:subj-present-2pp
 SFX Vu 0 ys . ds:subj-imperfect-0p
+
+# Subjunctive -ya
+SFX Vz Y 13
+SFX Vz 0 iv . ds:subj-present-1ps
+SFX Vz 0 i . ds:subj-present-2ps
+SFX Vz 0 yo . ds:subj-present-3ps
+SFX Vz 0 yn . ds:subj-present-1pp
+SFX Vz 0 yowgh . ds:subj-present-2pp
+SFX Vz 0 yons . ds:subj-present-3pp
+SFX Vz 0 yer . ds:subj-present-0p
+SFX Vz 0 yen . ds:subj-imperfect-1p
+SFX Vz 0 yes . ds:subj-imperfect-2ps
+SFX Vz 0 ya . ds:subj-imperfect-3ps
+SFX Vz 0 yewgh . ds:subj-imperfect-2pp
+SFX Vz 0 yens . ds:subj-imperfect-3pp
+SFX Vz 0 ys . ds:subj-imperfect-0p
