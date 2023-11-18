@@ -29,7 +29,7 @@ The scores show an approximation of the coverage of the spell-checker. They are 
 
 The latest releases can be found in the [Releases](https://github.com/cornish-tools/cornish-spellchecker/releases) section.
 
-Note that, due to the licensing on this spell-checker (see below), it is not compatible with extension marketplaces so the packages need to be obtained here, from Github.
+We are reviewing the licensing before we use Mozilla or LibreOffice marketplaces. In the meantime the spellchecker packages can to be obtained here, from Github.
 
 ## LibreOffice
 
