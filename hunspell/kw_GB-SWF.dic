@@ -1,4 +1,4 @@
-21794
+21805
 1920ow
 30
 30ves
@@ -4149,13 +4149,17 @@ dewdhek/AfMaMl po:NOUN_MASCULINE
 dewdhek/Ma po:NOUN_PLURAL
 dewdhen/AfMaMl po:NOUN_MASCULINE
 dewdhen/AfMaMl po:NOUN_PLURAL
+dewdros/AfMaMl po:NOUN_PLURAL
 dewek/MhMl po:ADJECTIVE
 dewel
 dewel/AfMaMl po:NOUN_PLURAL
+dewelin/AfMaMl po:NOUN_PLURAL
 dewen/MaMhMlMmVw po:VERB_STEM
 dewes
 dewfrik/Ma po:NOUN_DUAL
 dewgh/MaMhMlMm po:VERB
+dewgorn/AfMaMl po:NOUN_PLURAL
+dewgroch/AfMaMl po:NOUN_PLURAL
 dewi/MaMhMlMm po:VERB
 dewis
 dewis/AfMaMlPx po:NOUN_MASCULINE
@@ -4905,6 +4909,8 @@ divyrf/MaMhMlMmVu po:VERB_STEM
 divyrggh/MaMhMlMmVu po:VERB_STEM
 diw po:NUMBER
 diw/AfMaMl po:NOUN_FEMININE
+diwawen/AfMaMl po:NOUN_PLURAL
+diwbedren/AfMaMl po:NOUN_PLURAL
 diwdhelen
 diwedh
 diwedh/AfMaMlPw po:NOUN_MASCULINE
@@ -4926,6 +4932,8 @@ diwettha
 diwettha/MhMl po:ADJECTIVE
 diweyth/MhMl po:ADJECTIVE
 diweythieth/AfMaMl po:NOUN_FEMININE
+diwgell/AfMaMl po:NOUN_PLURAL
+diwgoloren/AfMaMl po:NOUN_PLURAL
 diwirhaval/MhMl po:ADJECTIVE
 diwisk/MaMhMlMmVaVr po:VERB_STEM
 diwiska/MaMhMlMm po:VERB
@@ -4952,7 +4960,9 @@ diwros/MaMhMlMmVaVr po:VERB_STEM
 diwrosa/MaMhMlMm po:VERB
 diwrosow/AfMaMl po:NOUN_PLURAL
 diwross/MaMhMlMmVs po:VERB_STEM
+diwskodh/AfMaMl po:NOUN_PLURAL
 diwskovarn
+diwskovarn/AfMaMl po:NOUN_PLURAL
 diwvanegen/AfMaMl po:NOUN_PLURAL
 diwvogalednow/AfMaMl po:NOUN_PLURAL
 diwvogalen/AfMaMl po:NOUN_FEMININE
@@ -4961,6 +4971,7 @@ diwvogh
 diwvregh
 diwvrodner/AfMaMl po:NOUN_MASCULINE
 diwvronner/AfMaMl po:NOUN_MASCULINE
+diwwewen/AfMaMl po:NOUN_PLURAL
 diwweyth
 diwweyth/Fp po:ADVERB
 diwyethek/MhMl po:ADJECTIVE
