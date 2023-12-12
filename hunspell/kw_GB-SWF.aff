@@ -94,6 +94,13 @@ SFX Py Y 2
 SFX Py a ys a ds:plural-a-ys
 SFX Py 0 ys [^a] ds:plural-ys
 
+# Prefixes for duals
+PFX De Y 1
+PFX De 0 dew . ds:dual-dew
+
+PFX Di Y 1
+PFX Di 0 diw . ds:dual-diw
+
 # Prefixes for nouns
 PFX Af Y 31
 PFX Af 0 an .
