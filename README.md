@@ -33,15 +33,14 @@ We are reviewing the licensing before we use Mozilla or LibreOffice marketplaces
 
 ## LibreOffice
 
-- Ensure LibreOffice is installed.
-- Download the [latest](https://github.com/cornish-tools/cornish-spellchecker/releases) LibreOffice OXT file.
+- Go to [LibreOffice Extensions](https://extensions.libreoffice.org/en/extensions/show/42004) or download the [latest](https://github.com/cornish-tools/cornish-spellchecker/releases) LibreOffice OXT file.
 - Double-click on that and the spell-checker will be installed into LibreOffice.
 
 ## Firefox
 
-- Ensure Firefox is installed.
-- Download the [latest](https://github.com/cornish-tools/cornish-spellchecker/releases) Mozilla XPI file.
-- Double-click on that and the spell-checker will be installed into Firefox or drag the XPI file into Firefox.
+Go to [Mozilla Add-Ons](https://addons.mozilla.org/en-GB/firefox/addon/ct-cornish-spell-checker-swf/) and install it from there.
+
+Alternatively, download the [latest](https://github.com/cornish-tools/cornish-spellchecker/releases) Mozilla XPI file and double-click on that and the spell-checker will be installed into Firefox or drag the XPI file into Firefox.
 
 ## Thunderbird
 
