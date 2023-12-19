@@ -27,30 +27,34 @@ The scores show an approximation of the coverage of the spell-checker. They are 
 
 # Install
 
-The latest releases can be found in the [Releases](https://github.com/cornish-tools/cornish-spellchecker/releases) section.
-
-We are reviewing the licensing before we use Mozilla or LibreOffice marketplaces. In the meantime the spellchecker packages can to be obtained here, from Github.
+The dictionary can be found on [LibreOffice Extensions](https://extensions.libreoffice.org/en/extensions/show/42004) and [Mozilla Add-Ons](https://addons.mozilla.org/en-GB/firefox/addon/ct-cornish-spell-checker-swf/). The latest releases can be found in the [Github Releases](https://github.com/cornish-tools/cornish-spellchecker/releases) section but might not notify of updates.
 
 ## LibreOffice
 
-- Go to [LibreOffice Extensions](https://extensions.libreoffice.org/en/extensions/show/42004) or download the [latest](https://github.com/cornish-tools/cornish-spellchecker/releases) LibreOffice OXT file.
-- Double-click on that and the spell-checker will be installed into LibreOffice.
+To install:
+- Download the latest LibreOffice OXT file from  [LibreOffice Extensions](https://extensions.libreoffice.org/en/extensions/show/42004)
+- Then, either:
+  - Double-click on that and the spell-checker will be installed into LibreOffice.
+  - In LibreOffice, go to Tools > Extension Manager.... Click Add. Choose the downloaded OXT file.
 
 ## Firefox
 
-Go to [Mozilla Add-Ons](https://addons.mozilla.org/en-GB/firefox/addon/ct-cornish-spell-checker-swf/) and install it from there.
-
-Alternatively, download the [latest](https://github.com/cornish-tools/cornish-spellchecker/releases) Mozilla XPI file and double-click on that and the spell-checker will be installed into Firefox or drag the XPI file into Firefox.
+To install, either:
+- Go to Add-ons &#129513; and search for "Cornish Spell-Checker". Click Add to Firefox. Click Add.
+- Go to [Mozilla Add-Ons](https://addons.mozilla.org/en-GB/firefox/addon/ct-cornish-spell-checker-swf/). Click Add to Firefox. Click Add.
+- Download the [latest Mozilla XPI file from Github](https://github.com/cornish-tools/cornish-spellchecker/releases)  and double-click on that and the spell-checker will be installed into Firefox or drag the XPI file into Firefox.
 
 ## Thunderbird
 
-Thunderbird is an email client. Instructions can be found on [their website](https://support.mozilla.org/en-US/kb/installing-addon-thunderbird#w_a-slightly-less-ideal-case-install-from-a-downloaded-xpi-file).
+Thunderbird is an email client. Instructions for installing dictionaries be found on [their website](https://support.mozilla.org/en-US/kb/installing-addon-thunderbird#w_a-slightly-less-ideal-case-install-from-a-downloaded-xpi-file).
 
-- Ensure Thunderbird is installed.
-- Download the [latest](https://github.com/cornish-tools/cornish-spellchecker/releases) Mozilla XPI file.
-- In Thunderbird, go to Settings &#x2699; > Add-ons and Themes &#129513; > Drag the downloaded Mozilla XPI file into the Add-ons and Themes area.
+To install:
+- Download the latest Mozilla XPI file from [Mozilla Add-Ons](https://addons.mozilla.org/en-GB/firefox/addon/ct-cornish-spell-checker-swf/) or [Github](https://github.com/cornish-tools/cornish-spellchecker/releases).
+- Then, in Thunderbird, either:
+  - Go to Settings &#x2699; > Add-ons and Themes &#129513; > Drag the downloaded Mozilla XPI file into the Add-ons and Themes area.
+  -  Go to Settings &#x2699; > Add-ons and Themes &#129513; > Go to Dictionaries &#128213; > Manage Your Dictionaries &#x2699; > Install Add-on From File. Select the downloaded XPI file.
 
-(Alternatively, in the Add-ons and Themes area: go to Dictionaries &#128213; > Manage Your Dictionaries &#x2699; > Install Add-on From File. Select the downloaded XPI file.)
+In Thunderbird settings the default dictionaries for email composition can be set under Composition > Spelling.
 
 # License
 
