@@ -48,8 +48,10 @@ To install, either:
 
 Thunderbird is an email client.
 
-To install:
-- Go to Tools > Add-ons and Themes &#129513; and search for "Cornish Spell-Checker". Click Add to Thunderbird. Click Add.
+To install, either:
+- Go to Settings ⚙ > Add-ons and Themes &#129513; and search for "Cornish Spell-Checker". Click Add to Thunderbird. Click Add.
+- Go to [Thunderbird Add-Ons](https://addons.thunderbird.net/addon/ct-cornish-spell-checker-swf/). Click Download now. In Thunderbird, go to Settings ⚙ > Add-ons and Themes 🧩 > Go to Dictionaries 📕 > Manage Your Dictionaries ⚙ > Install Add-on From File. Select the downloaded XPI file. Click Add.
+- Download the [latest Mozilla XPI file from Github](https://github.com/cornish-tools/cornish-spellchecker/releases) follow the process above to use the downloaded XPI.
 
 In Thunderbird settings the default dictionaries for email composition can be set under Composition > Spelling.
 
