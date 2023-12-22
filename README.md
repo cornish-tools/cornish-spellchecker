@@ -73,4 +73,6 @@ The majority of the word list is provided by the Akademi Kernewek. Additional ma
 
 All of the materials above use the Standard Written Form of Cornish with the exception of _A Grammar of Modern Cornish_ (2001).
 
+# Icon
+
 ![Dictionary icon](images/icon.png "Dictionary icon")
