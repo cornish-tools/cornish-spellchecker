@@ -72,3 +72,5 @@ The majority of the word list is provided by the Akademi Kernewek. Additional ma
 * Kernewek Dre Lyther. (2019). SWF ed. [online] Cornwall: Kesva an Taves Kernewek. Available at: https://kesva.org/kdl [Accessed 13 Jul. 2023].
 
 All of the materials above use the Standard Written Form of Cornish with the exception of _A Grammar of Modern Cornish_ (2001).
+
+![Dictionary icon](images/icon.png "Dictionary icon")
