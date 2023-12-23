@@ -11,7 +11,7 @@ Thanks to the Cornish Language Office and Akademi Kernewek for their support in 
 
 ## Limitations
 
-This spell-checker checks each word independently and does not check grammar. For example, the spell-checker can check whether a word is a valid mutation. For example, *kath* (cat) soft mutates *gath* so the spell-checker will report both words as correct. However, the spell-checker cannot tell whether the mutation is valid in the context of the sentence. For example, *an kath* and *an gath* (the cat) both have correctly spelled words so the spell-checker would report both as correct, but only *an gath* is gramatically correct.
+This spell-checker checks each word independently and does not check grammar. For example, the spell-checker can check whether a word is a valid mutation. For example, *<span lang="kw">kath</span>* (cat) soft mutates *<span lang="kw">gath</span>* so the spell-checker will report both words as correct. However, the spell-checker cannot tell whether the mutation is valid in the context of the sentence. For example, *<span lang="kw">an kath</span>* and *<span lang="kw">an gath</span>* (the cat) both have correctly spelled words so the spell-checker would report both as correct, but only *<span lang="kw">an gath</span>* is gramatically correct.
 
 > [!NOTE]
 > The spell-checker is not complete, there is still coverage to improve (see the scores below). Some of the known gaps in coverage are listed [under issues](https://github.com/cornish-tools/cornish-spellchecker/issues). If you encounter an issue, please help us by [raising it here](https://github.com/cornish-tools/cornish-spellchecker/issues).
@@ -65,7 +65,7 @@ The main part of the spell-checker is derived from the Akademi Kernewek word lis
 
 The majority of the word list is provided by the Akademi Kernewek. Additional materials were referenced to apply the rules of the language to the word list.
 
-* An Outline of the Standard Written Form of Cornish. (2021). Third ed. [online] Cornwall: Akademi Kernewek. Available at: https://www.akademikernewek.org.uk/panels?locale=en [Accessed 13 Jul. 2023].
+* An Outline of the Standard Written Form of Cornish. (2021). Third ed. [online] Cornwall: Akademi Kernewek. Available at: <https://www.akademikernewek.org.uk/panels?locale=en> [Accessed 13 Jul. 2023].
 * Brown, W. (2001) *[A Grammar of Modern Cornish](https://kesva.org/publications/grammar-modern-cornish)*. Third ed. Saltash, Cornwall: Kesva an Taves Kernewek.
 * Hak, T. (2019) *[Cornish Verbs in the Standard Written Form](https://kesva.org/publications/cornish-verbs)*. First ed. Hayle, Cornwall: Kesva an Taves Kernewek.
 * Page, J. (2010) *[Cornish Grammar for Beginners](https://kesva.org/publications/cornish-grammar-beginners-and-auxiliary-verbs)*. Revised Standard Written Form ed. Hayle, Cornwall: Kesva an Taves Kernewek.
