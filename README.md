@@ -1,8 +1,5 @@
 # Cornish Spell-Checker
 
-> [!NOTE]
-> For Non-Commercial Use. See license below.
-
 This is a spell-checker for the Cornish language. It uses word lists in the Standard Written Form that cover both Middle and Late Cornish combined. The spell-checker is based on Hunspell and but is also packaged for other applications that use the Hunspell framework: LibreOffice, Firefox and Thunderbird (email client).
 
 The main part of the spell-checker is derived from the Akademi Kernewek word list provided by the Cornish Language Office. 
@@ -59,7 +56,7 @@ In Thunderbird settings the default dictionaries for email composition can be se
 
 Copyright (c) 2023 Cornish Tools, Akademi Kernewek
 
-The main part of the spell-checker is derived from the Akademi Kernewek word list provided by the Cornish Language Office, released under Creative Commons Attribution NonCommercial 4.0. This spell-checker is released under the same license <https://creativecommons.org/licenses/by-nc/4.0/>.
+The main part of the spell-checker is derived from the Akademi Kernewek word list provided by the Cornish Language Office, released under Creative Commons Zero. This spell-checker is released under the same license <https://creativecommons.org/public-domain/cc0/>.
 
 # Bibliography
 
