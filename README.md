@@ -11,7 +11,7 @@ Thanks to the Cornish Language Office and Akademi Kernewek for their support in 
 This spell-checker checks each word independently and does not check grammar. For example, the spell-checker can check whether a word is a valid mutation. For example, *<span lang="kw">kath</span>* (cat) soft mutates *<span lang="kw">gath</span>* so the spell-checker will report both words as correct. However, the spell-checker cannot tell whether the mutation is valid in the context of the sentence. For example, *<span lang="kw">an kath</span>* and *<span lang="kw">an gath</span>* (the cat) both have correctly spelled words so the spell-checker would report both as correct, but only *<span lang="kw">an gath</span>* is gramatically correct.
 
 > [!NOTE]
-> The spell-checker is not complete, there is still coverage to improve (see the scores below). Some of the known gaps in coverage are listed [under issues](https://github.com/cornish-tools/cornish-spellchecker/issues). If you encounter an issue, please help us by [raising it here](https://github.com/cornish-tools/cornish-spellchecker/issues).
+> The spell-checker is not complete, there is still coverage to improve (see the scores below). Some of the known gaps in coverage are listed [under issues](https://github.com/cornish-tools/cornish-spellchecker/issues). If you encounter an issue, please help us by [raising it here](https://github.com/cornish-tools/cornish-spellchecker/issues) or [emailing us](mailto:toolscornish@gmail.com).
 
 ### Scores
 
