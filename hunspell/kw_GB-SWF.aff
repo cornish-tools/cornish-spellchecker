@@ -7,7 +7,7 @@ NOSUGGEST XS
 ICONV 1
 ICONV ’ '
 
-WORDCHARS 0123456789’'
+WORDCHARS 0123456789’
 
 # TODO fix whilst sorting out contraction rules
 BREAK 1
