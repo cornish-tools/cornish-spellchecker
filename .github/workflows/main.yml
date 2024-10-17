@@ -22,7 +22,7 @@ jobs:
         mv -v ${GITHUB_WORKSPACE}/packages/libreoffice-${{ env.LIBRARY_VERSION_NUMBER }}.zip ${GITHUB_WORKSPACE}/packages/libreoffice-${{ env.LIBRARY_VERSION_NUMBER }}.oxt
 
     - name: Upload extension as artifact
-      uses: actions/upload-artifact@v3
+      uses: actions/upload-artifact@v4
       with:
         name: libreoffice-${{ env.LIBRARY_VERSION_NUMBER }}
         path: packages/libreoffice-${{ env.LIBRARY_VERSION_NUMBER }}.oxt
@@ -44,7 +44,7 @@ jobs:
         mv -v ${GITHUB_WORKSPACE}/packages/mozilla-${{ env.LIBRARY_VERSION_NUMBER }}.zip ${GITHUB_WORKSPACE}/packages/mozilla-${{ env.LIBRARY_VERSION_NUMBER }}.xpi
 
     - name: Upload extension as artifact
-      uses: actions/upload-artifact@v3
+      uses: actions/upload-artifact@v4
       with:
         name: mozilla-${{ env.LIBRARY_VERSION_NUMBER }}
         path: packages/mozilla-${{ env.LIBRARY_VERSION_NUMBER }}.xpi
