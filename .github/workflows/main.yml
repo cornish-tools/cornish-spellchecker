@@ -4,7 +4,7 @@ permissions:
   contents: write
   
 env:
-  LIBRARY_VERSION_NUMBER: 0.2.${{ github.run_number }}
+  LIBRARY_VERSION_NUMBER: 0.3.${{ github.run_number }}
   
 jobs:
   package-libre-office:
@@ -55,12 +55,12 @@ jobs:
     needs: [package-libre-office, package-mozilla]
     steps:
       
-    - uses: actions/download-artifact@v2
+    - uses: actions/download-artifact@v4
       with:
         name: libreoffice-${{ env.LIBRARY_VERSION_NUMBER }}
         path: packages/
     
-    - uses: actions/download-artifact@v2
+    - uses: actions/download-artifact@v4
       with:
         name: mozilla-${{ env.LIBRARY_VERSION_NUMBER }}
         path: packages/
