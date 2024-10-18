@@ -1,4 +1,4 @@
-28067
+28252
 &
 /
 1920ow
@@ -919,6 +919,7 @@ Finwedhow/Ma po:NOUN_TOPOLOGICAL
 Fitzroya
 Fitzroya/AfMaMl po:NOUN_PLURAL
 Flamank
+Flamank/Ma po:NOUN_PLURAL
 Fletching
 Flushing/Ma po:NOUN_TOPOLOGICAL
 Fog
@@ -1479,6 +1480,7 @@ Jovyn
 Jovyn/AfMaMl po:NOUN_MASCULINE
 Jowan
 Jowl
+Jowl/Ma po:NOUN_PLURAL
 Jubile
 Jubyter/AfMaMl po:NOUN_MASCULINE
 Julet
@@ -2003,6 +2005,7 @@ Kyrgyzstan/Ma po:NOUN_TOPOLOGICAL
 Kyski
 Kytti
 Kytto
+Kytto/Ma po:NOUN_PLURAL
 L/AfMaMl po:NOUN_PLURAL
 Ladnvian/Ma po:NOUN_TOPOLOGICAL
 Lagger
@@ -2605,6 +2608,7 @@ Oula
 Owen
 PW
 Padrek
+Padrek/Ma po:NOUN_PLURAL
 Pakistan/Ma po:NOUN_TOPOLOGICAL
 Palaw/Ma po:NOUN_TOPOLOGICAL
 Palestin/AfMaMl po:NOUN_MASCULINE
@@ -3280,6 +3284,7 @@ Rynnji/Ma po:NOUN_TOPOLOGICAL
 Rys/Ma po:NOUN_TOPOLOGICAL
 Rysoghen
 S
+S/Ma po:NOUN_PLURAL
 S/Ma po:NOUN_TOPOLOGICAL
 Sadorn
 Sadorn/AfMaMl po:NOUN_MASCULINE
@@ -3346,6 +3351,7 @@ Skathow
 Skaw
 Skaw/Ma po:NOUN_COLLECTIVE
 Skawen
+Skawen/Ma po:NOUN_PLURAL
 Skawen/Ma po:NOUN_TOPOLOGICAL
 Skeus/Ma po:NOUN_TOPOLOGICAL
 Skeusi/Ma po:NOUN_TOPOLOGICAL
@@ -4094,6 +4100,7 @@ Vargh
 Varghas
 Varghes
 Varia
+Varia/Ma po:NOUN_PLURAL
 Varley/Ma po:NOUN_TOPOLOGICAL
 Vartin
 Vas
@@ -4191,6 +4198,7 @@ Wynnas
 Wynnek
 Wynnwalow
 Wyrghes
+Wyrghes/Ma po:NOUN_PLURAL
 X
 X-dewyn/MaMhMlMmVaVy po:VERB_STEM
 X-dewynn/MaMhMlMmVaVyVz po:VERB_STEM
@@ -4676,9 +4684,11 @@ almanak/AfMaMl po:NOUN_MASCULINE
 almaynek/MhMl po:ADJECTIVE
 aloes/Ma po:NOUN_COLLECTIVE
 aloes/Ma po:NOUN_PLURAL
+aloesen/Ma po:NOUN_PLURAL
 alow/Ma po:NOUN_COLLECTIVE
 alow/MaMhMlMmVaVrVs po:VERB_STEM
 alowa/MaMhMlMm po:VERB
+alowen/Ma po:NOUN_PLURAL
 alpek
 alpek/AfMaMl po:NOUN_PLURAL
 als/AfMaMlPx po:NOUN_FEMININE
@@ -4707,6 +4717,7 @@ amalvordow/AfMaMl po:NOUN_PLURAL
 amalvordys/AfMaMl po:NOUN_PLURAL
 amanyn
 amanyn/AfMaMl po:NOUN_MASCULINE
+amanyn/Ma po:NOUN_PLURAL
 amanynnow/AfMaMl po:NOUN_PLURAL
 amari/AfMaMlPs po:NOUN_FEMININE
 amaris/AfMaMl po:NOUN_PLURAL
@@ -5340,11 +5351,13 @@ asfalt/AfMaMl po:NOUN_MASCULINE
 asiek/MhMl po:ADJECTIVE
 askal/Ma po:NOUN_COLLECTIVE
 askalednow/Ma po:NOUN_PLURAL
+askalen/Ma po:NOUN_PLURAL
 askalennow/Ma po:NOUN_PLURAL
 askall/AfMaMl po:NOUN_PLURAL
 askall/Ma po:NOUN_COLLECTIVE
 askallednow/AfMaMl po:NOUN_PLURAL
 askallen/AfMaMl po:NOUN_FEMININE
+askallen/Ma po:NOUN_PLURAL
 askallennow/AfMaMl po:NOUN_PLURAL
 askel
 askel/AfMaMl po:NOUN_FEMININE
@@ -5759,6 +5772,7 @@ banadhlednow/AfMaMl po:NOUN_PLURAL
 banadhlegi/AfMaMl po:NOUN_PLURAL
 banadhlek/AfMaMl po:NOUN_FEMININE
 banadhlen/AfMaMl po:NOUN_FEMININE
+banadhlen/AfMaMl po:NOUN_PLURAL
 banadhlennow/AfMaMl po:NOUN_PLURAL
 banaghow/AfMaMl po:NOUN_PLURAL
 banana/AfMaMl po:NOUN_PLURAL
@@ -5837,6 +5851,7 @@ barlysednow/Ma po:NOUN_PLURAL
 barlysegi/AfMaMl po:NOUN_PLURAL
 barlysegow/AfMaMl po:NOUN_PLURAL
 barlysek/AfMaMl po:NOUN_FEMININE
+barlysen/Ma po:NOUN_PLURAL
 barlysennow/Ma po:NOUN_PLURAL
 barn/MaMhMlMmVaVv po:VERB_STEM
 barna/MaMhMlMm po:VERB
@@ -5961,6 +5976,7 @@ bedn-bloodh
 bedn/AfMaMl po:NOUN_FEMININE
 bednath/AfMaMl po:NOUN_FEMININE
 bedrek
+bedrek/Ma po:NOUN_PLURAL
 beg/MaMhMlMmViVr po:VERB_STEM
 begel/AfMaMlPx po:NOUN_MASCULINE
 begg/MaMhMlMmVaVy po:VERB_STEM
@@ -6078,6 +6094,7 @@ berrskrif/MaMhMlMmVaVr po:VERB_STEM
 berrskrifa/MaMhMlMm po:VERB
 berrskriff/MaMhMlMmVs po:VERB_STEM
 berrwelyek/MhMl po:ADJECTIVE
+bersilik/Ma po:NOUN_PLURAL
 berthyans
 bervedhel/AfMaMl po:NOUN_PLURAL
 berwedhen/AfMaMl po:NOUN_FEMININE
@@ -6279,10 +6296,12 @@ blewednow/AfMaMl po:NOUN_PLURAL
 blewek
 blewek/MhMl po:ADJECTIVE
 blewen/AfMaMl po:NOUN_FEMININE
+blewen/Ma po:NOUN_PLURAL
 blewennow/AfMaMl po:NOUN_PLURAL
 bleydh
 bleydh-brogh/AfMaMl po:NOUN_MASCULINE
 bleydh/AfMaMl po:NOUN_MASCULINE
+bleydh/Ma po:NOUN_PLURAL
 bleydhes/AfMaMl po:NOUN_PLURAL
 bleydhi-brogh/AfMaMl po:NOUN_PLURAL
 bleydhi/AfMaMl po:NOUN_PLURAL
@@ -6300,6 +6319,7 @@ bleynyellow/AfMaMl po:NOUN_PLURAL
 bleynyow/AfMaMl po:NOUN_PLURAL
 blobm
 block/AfMaMl po:NOUN_MASCULINE
+block/Ma po:NOUN_PLURAL
 blockys/AfMaMl po:NOUN_PLURAL
 blogh/MhMl po:ADJECTIVE
 blojon/AfMaMlPs po:NOUN_MASCULINE
@@ -6455,6 +6475,7 @@ bool/AfMaMl po:NOUN_FEMININE
 boos
 boos/AfMaMl po:NOUN_MASCULINE
 boos/AfMaMl po:NOUN_PLURAL
+bop/Ma po:NOUN_PLURAL
 bora/AfMaMlPw po:NOUN_MASCULINE
 boragweyth/AfMaMlPx po:NOUN_FEMININE
 bord
@@ -6632,6 +6653,7 @@ brenassa
 brend/MaMhMlMmVaVy po:VERB_STEM
 brendya/MaMhMlMm po:VERB
 brenigen/AfMaMl po:NOUN_FEMININE
+brenigen/AfMaMl po:NOUN_PLURAL
 brenigennow/AfMaMl po:NOUN_PLURAL
 brenn
 brenn/AfMaMl po:NOUN_PLURAL
@@ -6741,6 +6763,7 @@ brithednek/MhMl po:ADJECTIVE
 brithednow/AfMaMl po:NOUN_PLURAL
 brithel
 brithel/AfMaMl po:NOUN_MASCULINE
+brithel/Ma po:NOUN_PLURAL
 brithen/AfMaMl po:NOUN_FEMININE
 brithenegow/AfMaMl po:NOUN_PLURAL
 brithennek/AfMaMl po:NOUN_MASCULINE
@@ -6877,6 +6900,7 @@ brysonydh/AfMaMlPq po:NOUN_MASCULINE
 brysonydhes/AfMaMlPw po:NOUN_FEMININE
 bryss/MaMhMlMmVu po:VERB_STEM
 bryton/Ma po:NOUN_COLLECTIVE
+brytonen/Ma po:NOUN_PLURAL
 brytth/MaMhMlMmVu po:VERB_STEM
 bryv
 bryv/MaMhMlMmVaVy po:VERB_STEM
@@ -6958,6 +6982,7 @@ burpur
 burrow/AfMaMl po:NOUN_MASCULINE
 busel/AfMaMl po:NOUN_MASCULINE
 busel/Ma po:NOUN_COLLECTIVE
+buselen/Ma po:NOUN_PLURAL
 bush
 bush/AfMaMlPy po:NOUN_MASCULINE
 bushel/AfMaMl po:NOUN_MASCULINE
@@ -8086,6 +8111,7 @@ dhelveur
 dhemedhyans
 dhen/Fp po:PREPOSITION
 dhens
+dhenti/Ma po:NOUN_PLURAL
 dherag/Fp po:ADVERB
 dherag/Fp po:PREPOSITION
 dheraga/Fp po:PREPOSITION
@@ -8135,6 +8161,7 @@ dhodhans/Fp po:PREPOSITION
 dhodho
 dhodho/Fp po:PREPOSITION
 dhor
+dhor/Ma po:NOUN_PLURAL
 dhorn
 dhort
 dhort/Fp po:PREPOSITION
@@ -8153,8 +8180,10 @@ dhragones
 dhrehevyans
 dhrehevyans/AfMaMl po:NOUN_PLURAL
 dhu
+dhu/Ma po:NOUN_PLURAL
 dhuryen
 dhybri
+dhybri/Ma po:NOUN_PLURAL
 dhymm
 dhymm/Fp po:PREPOSITION
 dhyn/Fp po:PREPOSITION
@@ -8469,6 +8498,7 @@ dihevelepter/AfMaMl po:NOUN_MASCULINE
 dihevelepterow/AfMaMl po:NOUN_PLURAL
 dihwans/Fp po:ADVERB
 dilagha/MhMl po:ADJECTIVE
+dilasen-neuvya/Ma po:NOUN_PLURAL
 dilasva
 dilasva/AfMaMl po:NOUN_FEMININE
 dilavar/MhMl po:ADJECTIVE
@@ -8490,6 +8520,7 @@ dillas/AfMaMl po:NOUN_PLURAL
 dillas/Ma po:NOUN_COLLECTIVE
 dillasednow/AfMaMl po:NOUN_PLURAL
 dillasen/AfMaMl po:NOUN_FEMININE
+dillasen/Ma po:NOUN_PLURAL
 dillasennow/AfMaMl po:NOUN_PLURAL
 dillasva
 dillasva/AfMaMlPw po:NOUN_FEMININE
@@ -9043,6 +9074,7 @@ dos/AfMaMl po:NOUN_PLURAL
 dos/MaMhMlMm po:VERB
 dos/MaMhMlMmVr po:VERB_STEM
 dosedh/AfMaMlPw po:NOUN_MASCULINE
+dosek/Ma po:NOUN_PLURAL
 doss/MaMhMlMmVs po:VERB_STEM
 dot/MaMhMlMmVaVy po:VERB_STEM
 doth/MhMl po:ADJECTIVE
@@ -9196,6 +9228,7 @@ drehedhyans/AfMaMlPw po:NOUN_MASCULINE
 dreheff/MaMhMlMmVs po:VERB_STEM
 drehev/MaMhMlMmViVr po:VERB_STEM
 drehevel
+drehevel/Ma po:NOUN_PLURAL
 drehevel/MaMhMlMm po:VERB
 drehevell/AfMaMlPw po:NOUN_FEMININE
 drehevyans
@@ -9233,6 +9266,7 @@ dresta/Fp po:PREPOSITION
 dresti/Fp po:PREPOSITION
 dresto/Fp po:PREPOSITION
 dreth
+dreth/Ma po:NOUN_PLURAL
 dreus
 drevas
 drevel/AfMaMl po:NOUN_PLURAL
@@ -9256,6 +9290,7 @@ dreyss/MaMhMlMmVs po:VERB_STEM
 dri
 dri/MaMhMlMm po:VERB
 driff/MaMhMlMmVz po:VERB_STEM
+drihornek/Ma po:NOUN_PLURAL
 driv/MaMhMlMmVaVy po:VERB_STEM
 drivya/MaMhMlMm po:VERB
 dro
@@ -9305,6 +9340,7 @@ drokter/AfMaMl po:NOUN_MASCULINE
 drolla
 drolla/AfMaMlPy po:NOUN_MASCULINE
 droos
+droos/Ma po:NOUN_PLURAL
 dropp/MaMhMlMmVaVyVz po:VERB_STEM
 droppya/MaMhMlMm po:VERB
 dros
@@ -9330,6 +9366,7 @@ dryftyans/AfMaMlPw po:NOUN_MASCULINE
 drylji/AfMaMl po:NOUN_MASCULINE
 drylsi/AfMaMl po:NOUN_MASCULINE
 drynsys
+drynsys/Ma po:NOUN_PLURAL
 dryppll/MaMhMlMmVs po:VERB_STEM
 du
 du/AfMaMl po:NOUN_PLURAL
@@ -9513,6 +9550,7 @@ ebel
 ebel/AfMaMl po:NOUN_FEMININE
 ebel/AfMaMl po:NOUN_MASCULINE
 ebel/AfMaMl po:NOUN_UNDETERMINED
+ebel/Ma po:NOUN_PLURAL
 ebeldhyghtt/MaMhMlMmVz po:VERB_STEM
 ebeli/AfMaMl po:NOUN_PLURAL
 ebil/AfMaMl po:NOUN_MASCULINE
@@ -9680,6 +9718,7 @@ elester/Ma po:NOUN_COLLECTIVE
 elester/Ma po:NOUN_PLURAL
 elestrednow/Ma po:NOUN_PLURAL
 elestren/Ma po:NOUN_COLLECTIVE
+elestren/Ma po:NOUN_PLURAL
 elestrennow/Ma po:NOUN_PLURAL
 elgeth/AfMaMlPx po:NOUN_FEMININE
 elggh/MaMhMlMmVsVz po:VERB_STEM
@@ -9933,6 +9972,7 @@ erghdewetth/MaMhMlMmVs po:VERB_STEM
 erghednow/AfMaMl po:NOUN_PLURAL
 erghek/MhMl po:ADJECTIVE
 erghen/AfMaMl po:NOUN_FEMININE
+erghen/Ma po:NOUN_PLURAL
 erghennow/AfMaMl po:NOUN_PLURAL
 erghi
 erghi/MaMhMlMm po:VERB
@@ -9960,6 +10000,7 @@ ervin/AfMaMl po:NOUN_PLURAL
 ervin/Ma po:NOUN_COLLECTIVE
 ervinednen/AfMaMl po:NOUN_PLURAL
 ervinen/AfMaMl po:NOUN_FEMININE
+ervinen/Ma po:NOUN_PLURAL
 ervinennen/AfMaMl po:NOUN_PLURAL
 ervinigow/AfMaMl po:NOUN_PLURAL
 ervinik/AfMaMl po:NOUN_MASCULINE
@@ -10180,6 +10221,7 @@ eva/MaMhMlMm po:VERB
 ever/AfMaMl po:NOUN_PLURAL
 evnytth/MaMhMlMmVz po:VERB_STEM
 evor/Ma po:NOUN_COLLECTIVE
+evoren/Ma po:NOUN_PLURAL
 evredh/AfMaMlPq po:NOUN_MASCULINE
 evredhek/MhMl po:ADJECTIVE
 evredhes/AfMaMlPw po:NOUN_FEMININE
@@ -10198,6 +10240,7 @@ ewin/AfMaMl po:NOUN_PLURAL
 ewin/AfMaMlPe po:NOUN_MASCULINE
 ewin/Ma po:NOUN_COLLECTIVE
 ewinek
+ewinek/Ma po:NOUN_PLURAL
 ewinen/AfMaMl po:NOUN_FEMININE
 ewinennow/AfMaMl po:NOUN_PLURAL
 ewines
@@ -10232,6 +10275,7 @@ ewon/Ma po:NOUN_COLLECTIVE
 ewon/MaMhMlMmViVr po:VERB_STEM
 ewonek
 ewonek/MhMl po:ADJECTIVE
+ewonen/Ma po:NOUN_PLURAL
 ewoni/MaMhMlMm po:VERB
 ewonn/MaMhMlMmVs po:VERB_STEM
 eyl
@@ -10242,6 +10286,7 @@ eylafinans/AfMaMl po:NOUN_MASCULINE
 eyles/AfMaMl po:NOUN_PLURAL
 eyles/Ma po:NOUN_COLLECTIVE
 eylesen/AfMaMl po:NOUN_FEMININE
+eylesen/Ma po:NOUN_PLURAL
 eylgelggh/MaMhMlMmVz po:VERB_STEM
 eylgelgh/MaMhMlMmVaVy po:VERB_STEM
 eylgelghya/MaMhMlMm po:VERB
@@ -10271,6 +10316,7 @@ eyrinednow/AfMaMl po:NOUN_PLURAL
 eyrinen/AfMaMl po:NOUN_FEMININE
 eyrinennow/AfMaMl po:NOUN_PLURAL
 eythin/Ma po:NOUN_COLLECTIVE
+eythinen/Ma po:NOUN_PLURAL
 faborden
 faborden/AfMaMlPq po:NOUN_MASCULINE
 faborden/MhMl po:ADJECTIVE
@@ -10361,6 +10407,7 @@ fav
 fav/AfMaMl po:NOUN_PLURAL
 fav/Ma po:NOUN_COLLECTIVE
 faven/AfMaMl po:NOUN_FEMININE
+faven/Ma po:NOUN_PLURAL
 favennow/AfMaMl po:NOUN_PLURAL
 faver/MaMhMlMmVaVr po:VERB_STEM
 favera/MaMhMlMm po:VERB
@@ -10533,6 +10580,7 @@ finwetth/MaMhMlMmVs po:VERB_STEM
 fion/AfMaMl po:NOUN_PLURAL
 fion/Ma po:NOUN_COLLECTIVE
 fionen/AfMaMl po:NOUN_FEMININE
+fionen/Ma po:NOUN_PLURAL
 fisegel/MhMl po:ADJECTIVE
 fisio/AfMaMl po:NOUN_MASCULINE
 fisten/AfMaMl po:NOUN_MASCULINE
@@ -10543,6 +10591,7 @@ flameges/AfMaMl po:NOUN_PLURAL
 flamek/AfMaMl po:NOUN_MASCULINE
 flamm
 flamm-les/Ma po:NOUN_COLLECTIVE
+flamm-losowen/Ma po:NOUN_PLURAL
 flamm/AfMaMlPw po:NOUN_MASCULINE
 flamm/MhMl po:ADJECTIVE
 flammfos/AfMaMl po:NOUN_MASCULINE
@@ -11051,6 +11100,7 @@ gans/Fp po:PREPOSITION
 gans/MhMl po:ADJECTIVE
 gansa/Fp po:PREPOSITION
 gansbledhen
+gansbledhen/Ma po:NOUN_PLURAL
 ganso
 ganso/Fp po:PREPOSITION
 ganstel
@@ -11122,6 +11172,7 @@ gavna/AfMaMl po:NOUN_FEMININE
 gavnaghes/AfMaMl po:NOUN_PLURAL
 gavnaghow/AfMaMl po:NOUN_PLURAL
 gavrewik/AfMaMl po:NOUN_UNDETERMINED
+ge/Ma po:NOUN_PLURAL
 gebm/AfMaMl po:NOUN_MASCULINE
 gebmow/AfMaMlPw po:NOUN_PLURAL
 gedhlow
@@ -11244,6 +11295,7 @@ gesyores/AfMaMlPw po:NOUN_FEMININE
 gesys/MhMl po:ADJECTIVE
 getto/AfMaMlPs po:NOUN_MASCULINE
 geun
+geunek/Ma po:NOUN_PLURAL
 geus
 gev/MaMhMlMmVw po:VERB_STEM
 gevambos
@@ -11271,6 +11323,7 @@ gevrik/AfMaMl po:NOUN_FEMININE
 gevyans/AfMaMlPw po:NOUN_MASCULINE
 gew/AfMaMlPw po:NOUN_MASCULINE
 gewargh
+gewni/Ma po:NOUN_PLURAL
 gibell
 gibell/AfMaMl po:NOUN_PLURAL
 gid/AfMaMlPy po:NOUN_MASCULINE
@@ -11353,6 +11406,7 @@ glebya/MaMhMlMm po:VERB
 gledh
 gledh/AfMaMl po:NOUN_MASCULINE
 gledh/AfMaMl po:NOUN_PLURAL
+gledha/Ma po:NOUN_PLURAL
 gledhen/AfMaMl po:NOUN_FEMININE
 gleghergh
 glen/MaMhMlMmVaVr po:VERB_STEM
@@ -11382,6 +11436,7 @@ glos/Ma po:NOUN_COLLECTIVE
 glosow/AfMaMl po:NOUN_PLURAL
 gloutwyn
 glow/Ma po:NOUN_COLLECTIVE
+glowen/Ma po:NOUN_PLURAL
 glowor/AfMaMlPq po:NOUN_MASCULINE
 glowva/AfMaMlPw po:NOUN_FEMININE
 glujek
@@ -11422,6 +11477,7 @@ glypp
 glypp/AfMaMl po:NOUN_PLURAL
 glypp/MaMhMlMmVz po:VERB_STEM
 glyst/Ma po:NOUN_COLLECTIVE
+glysten/Ma po:NOUN_PLURAL
 gnas/AfMaMlPw po:NOUN_FEMININE
 gnasednow/AfMaMl po:NOUN_PLURAL
 gnasek/MhMl po:ADJECTIVE
@@ -11607,6 +11663,7 @@ goffoss/MaMhMlMmVs po:VERB_STEM
 gog
 gog/AfMaMl po:NOUN_PLURAL
 gogh
+gogh/Ma po:NOUN_PLURAL
 goghi/AfMaMl po:NOUN_PLURAL
 goghi/Ma po:NOUN_COLLECTIVE
 goghien/AfMaMl po:NOUN_FEMININE
@@ -11637,6 +11694,7 @@ goi/MaMhMlMm po:VERB
 gojek
 gojek/MhMl po:ADJECTIVE
 goji
+goji/Ma po:NOUN_PLURAL
 gojogednow/AfMaMl po:NOUN_PLURAL
 gojogen/AfMaMl po:NOUN_FEMININE
 goki/MhMl po:ADJECTIVE
@@ -11734,6 +11792,7 @@ gomodnn/MaMhMlMmVs po:VERB_STEM
 gomonn/MaMhMlMmVaVrVs po:VERB_STEM
 gomonna/MaMhMlMm po:VERB
 gompes
+gonbluven/Ma po:NOUN_PLURAL
 gonedhek/AfMaMlPq po:NOUN_MASCULINE
 gonedher/AfMaMl po:NOUN_MASCULINE
 gonedhores/AfMaMl po:NOUN_FEMININE
@@ -11772,6 +11831,7 @@ goodh
 goodh/AfMaMl po:NOUN_FEMININE
 goodh/AfMaMl po:NOUN_PLURAL
 goodh/MhMl po:ADJECTIVE
+goog/Ma po:NOUN_PLURAL
 gool
 gool/AfMaMl po:NOUN_MASCULINE
 goon
@@ -11946,6 +12006,7 @@ gorsav/AfMaMlPw po:NOUN_MASCULINE
 gorsedh/AfMaMlPw po:NOUN_FEMININE
 gorsekoya/AfMaMl po:NOUN_MASCULINE
 gorsekoyas/AfMaMl po:NOUN_PLURAL
+gorsen/Ma po:NOUN_PLURAL
 gorskwatt/AfMaMl po:NOUN_MASCULINE
 gorth po:PREFIX
 gorth/MhMl po:ADJECTIVE
@@ -12106,6 +12167,7 @@ govenek/AfMaMl po:NOUN_MASCULINE
 gover-gweyth/AfMaMl po:NOUN_MASCULINE
 gover/AfMaMl po:NOUN_MASCULINE
 goverles/Ma po:NOUN_COLLECTIVE
+goverlosowen/Ma po:NOUN_PLURAL
 govern/MaMhMlMmVaVr po:VERB_STEM
 governa/MaMhMlMm po:VERB
 governans/AfMaMlPw po:NOUN_MASCULINE
@@ -12238,6 +12300,7 @@ greun/AfMaMl po:NOUN_PLURAL
 greun/Ma po:NOUN_COLLECTIVE
 greunaval/AfMaMlPw po:NOUN_MASCULINE
 greunek/MhMl po:ADJECTIVE
+greunen/Ma po:NOUN_PLURAL
 greunh/MaMhMlMmVaViVr po:VERB_STEM
 greunhah/MaMhMlMmVs po:VERB_STEM
 greunhe/MaMhMlMm po:VERB
@@ -12301,6 +12364,7 @@ growdir/AfMaMl po:NOUN_MASCULINE
 growedh/MaMhMlMmVaVr po:VERB_STEM
 growedha/MaMhMlMm po:VERB
 growedhva/AfMaMlPw po:NOUN_FEMININE
+growen/Ma po:NOUN_PLURAL
 growenyow/AfMaMl po:NOUN_PLURAL
 growetth/MaMhMlMmVs po:VERB_STEM
 grows/AfMaMl po:NOUN_PLURAL
@@ -12309,6 +12373,7 @@ growsvos/AfMaMlPw po:NOUN_MASCULINE
 grudh/AfMaMlPw po:NOUN_FEMININE
 grug/AfMaMlPw po:NOUN_MASCULINE
 grug/Ma po:NOUN_COLLECTIVE
+gruglon/Ma po:NOUN_PLURAL
 grugyar/AfMaMl po:NOUN_FEMININE
 grugyer/AfMaMl po:NOUN_PLURAL
 grugys-sawya/AfMaMl po:NOUN_MASCULINE
@@ -12337,6 +12402,7 @@ gull/MaMhMlMmVs po:VERB_STEM
 gulyek
 guw
 guw/AfMaMlPw po:NOUN_MASCULINE
+guw/Ma po:NOUN_PLURAL
 guw/MaMhMlMmVaVrVs po:VERB_STEM
 guwa/MaMhMlMm po:VERB
 guwdhel
@@ -12430,6 +12496,7 @@ gwaregow
 gwaregow/AfMaMl po:NOUN_PLURAL
 gwarek
 gwaren/AfMaMl po:NOUN_FEMININE
+gwaren/Ma po:NOUN_PLURAL
 gwarennow/AfMaMl po:NOUN_PLURAL
 gwari
 gwari/AfMaMlPw po:NOUN_MASCULINE
@@ -12571,6 +12638,7 @@ gwegbesednow/AfMaMl po:NOUN_PLURAL
 gwegbys/AfMaMl po:NOUN_PLURAL
 gwegbys/Ma po:NOUN_COLLECTIVE
 gwegbysen/AfMaMl po:NOUN_FEMININE
+gwegbysen/Ma po:NOUN_PLURAL
 gwegbysennow/AfMaMl po:NOUN_PLURAL
 gweithio
 gwel
@@ -12631,6 +12699,7 @@ gwelsednow/Ma po:NOUN_PLURAL
 gwelsegi/AfMaMl po:NOUN_PLURAL
 gwelsegow/AfMaMl po:NOUN_PLURAL
 gwelsen/AfMaMl po:NOUN_FEMININE
+gwelsen/Ma po:NOUN_PLURAL
 gwelsennow/AfMaMl po:NOUN_PLURAL
 gwelsigow
 gwelsigow/Ma po:NOUN_PLURAL
@@ -12709,6 +12778,7 @@ gwern/MaMhMlMmVw po:VERB_STEM
 gwernednow/AfMaMl po:NOUN_PLURAL
 gwernek/MhMl po:ADJECTIVE
 gwernen/AfMaMl po:NOUN_FEMININE
+gwernen/Ma po:NOUN_PLURAL
 gwernennow/AfMaMl po:NOUN_PLURAL
 gwernis/AfMaMlPx po:NOUN_FEMININE
 gwernis/MaMhMlMmVaVy po:VERB_STEM
@@ -12835,6 +12905,7 @@ gwinwel/Ma po:NOUN_COLLECTIVE
 gwinwelednonw/AfMaMl po:NOUN_PLURAL
 gwinwelednow/AfMaMl po:NOUN_PLURAL
 gwinwelen/AfMaMl po:NOUN_FEMININE
+gwinwelen/AfMaMl po:NOUN_PLURAL
 gwinwelennow/AfMaMl po:NOUN_PLURAL
 gwinyer/AfMaMl po:NOUN_MASCULINE
 gwir
@@ -12896,6 +12967,7 @@ gwius/MhMl po:ADJECTIVE
 gwiver/Ma po:NOUN_COLLECTIVE
 gwivrednow/AfMaMl po:NOUN_PLURAL
 gwivren/AfMaMl po:NOUN_FEMININE
+gwivren/Ma po:NOUN_PLURAL
 gwivrennow/AfMaMl po:NOUN_PLURAL
 gwiw/MhMl po:ADJECTIVE
 gwiwder/AfMaMl po:NOUN_MASCULINE
@@ -13050,6 +13122,7 @@ gwydhlannow/AfMaMl po:NOUN_PLURAL
 gwydhvos/AfMaMl po:NOUN_PLURAL
 gwydhvos/Ma po:NOUN_COLLECTIVE
 gwydhvosen/AfMaMl po:NOUN_FEMININE
+gwydhvosen/Ma po:NOUN_PLURAL
 gwydhyel/MhMl po:ADJECTIVE
 gwydhynyow/AfMaMl po:NOUN_PLURAL
 gwydhyow
@@ -13071,6 +13144,7 @@ gwyg/AfMaMl po:NOUN_PLURAL
 gwyles/AfMaMlPw po:NOUN_MASCULINE
 gwylgos/AfMaMlPw po:NOUN_MASCULINE
 gwyll/AfMaMlPx po:NOUN_MASCULINE
+gwyllen/Ma po:NOUN_PLURAL
 gwyls
 gwyls/AfMaMl po:NOUN_PLURAL
 gwyls/MhMl po:ADJECTIVE
@@ -13301,6 +13375,7 @@ hasa/MaMhMlMm po:VERB
 hasednow/AfMaMl po:NOUN_PLURAL
 hasek/MhMl po:ADJECTIVE
 hasen/AfMaMl po:NOUN_FEMININE
+hasen/Ma po:NOUN_PLURAL
 hasennow/AfMaMl po:NOUN_PLURAL
 haskednnow/AfMaMl po:NOUN_PLURAL
 haskennow/AfMaMl po:NOUN_PLURAL
@@ -13457,6 +13532,7 @@ helygennow-devera/AfMaMl po:NOUN_PLURAL
 helygennow-kramya/AfMaMl po:NOUN_PLURAL
 helygennow/AfMaMl po:NOUN_PLURAL
 helygles/Ma po:NOUN_COLLECTIVE
+helyglosowen/Ma po:NOUN_PLURAL
 helyk
 helyk-devera/AfMaMl po:NOUN_PLURAL
 helyk-kramya/AfMaMl po:NOUN_PLURAL
@@ -13491,6 +13567,7 @@ hendheskonydh/AfMaMl po:NOUN_MASCULINE
 hendheskonydhes/AfMaMl po:NOUN_FEMININE
 hendheskonydhesow/AfMaMlPw po:NOUN_PLURAL
 hendheskonydhyon/AfMaMlPq po:NOUN_PLURAL
+hendhilasen/Ma po:NOUN_PLURAL
 hendhillas/Ma po:NOUN_COLLECTIVE
 hendhilllas/Ma po:NOUN_COLLECTIVE
 hendhyskonieth/AfMaMl po:NOUN_FEMININE
@@ -13583,6 +13660,7 @@ heskednow/AfMaMl po:NOUN_PLURAL
 hesken
 hesken-skwardya/AfMaMl po:NOUN_FEMININE
 hesken/AfMaMl po:NOUN_FEMININE
+hesken/Ma po:NOUN_PLURAL
 heskenn/MaMhMlMmVaVrVs po:VERB_STEM
 heskenna/MaMhMlMm po:VERB
 heskennow-skwardya/AfMaMl po:NOUN_PLURAL
@@ -13762,6 +13840,7 @@ holan/Ma po:NOUN_COLLECTIVE
 holanednow/AfMaMl po:NOUN_PLURAL
 holanek/MhMl po:ADJECTIVE
 holanen/AfMaMl po:NOUN_FEMININE
+holanen/Ma po:NOUN_PLURAL
 holanennow/AfMaMl po:NOUN_PLURAL
 holanles/AfMaMl po:NOUN_MASCULINE
 holestek/MhMl po:ADJECTIVE
@@ -13793,7 +13872,9 @@ honna/Ma po:NOUN_PRONOUN
 hons/AfMaMl po:NOUN_PLURAL
 hons/Fp po:ADVERB
 hoppys
+hoppys/Ma po:NOUN_PLURAL
 hopys/Ma po:NOUN_COLLECTIVE
+hopysen/Ma po:NOUN_PLURAL
 hor/AfMaMl po:NOUN_MASCULINE
 hor/AfMaMlPe po:NOUN_PLURAL
 hora/AfMaMlPy po:NOUN_FEMININE
@@ -13853,6 +13934,7 @@ hudel/MhMl po:ADJECTIVE
 huder/AfMaMlPq po:NOUN_MASCULINE
 hudores
 hudores/AfMaMlPw po:NOUN_FEMININE
+hudores/Ma po:NOUN_PLURAL
 hujes/MhMl po:ADJECTIVE
 huk/AfMaMlPy po:NOUN_FEMININE
 hula
@@ -13959,6 +14041,7 @@ hwegoll/MhMl po:ADJECTIVE
 hwegron/AfMaMlPq po:NOUN_MASCULINE
 hwegyn/AfMaMl po:NOUN_FEMININE
 hwegys/Ma po:NOUN_COLLECTIVE
+hwegysen/Ma po:NOUN_PLURAL
 hwei/Fp po:ADVERB
 hwei/Fp po:PREPOSITION
 hwei/Ma po:NOUN_PRONOUN
@@ -14152,6 +14235,7 @@ i/Ma po:NOUN_PRONOUN
 ialhwetth/MaMhMlMmVs po:VERB_STEM
 idhemetth/MaMhMlMmVs po:VERB_STEM
 idhyow/Ma po:NOUN_COLLECTIVE
+idhyowen/Ma po:NOUN_PLURAL
 ieth po:SUFFIX
 ifutth/MaMhMlMmVs po:VERB_STEM
 ikon/AfMaMlPy po:NOUN_MASCULINE
@@ -14405,7 +14489,9 @@ jygg/AfMaMlPx po:NOUN_MASCULINE
 jykk/MaMhMlMmVu po:VERB_STEM
 jynevra/AfMaMlPy po:NOUN_MASCULINE
 jynjer/Ma po:NOUN_COLLECTIVE
+jynjeren/Ma po:NOUN_PLURAL
 jynjyber/Ma po:NOUN_COLLECTIVE
+jynjyberen/Ma po:NOUN_PLURAL
 jynn
 jynn-amontya
 jynn-amontya/AfMaMl po:NOUN_MASCULINE
@@ -14601,6 +14687,7 @@ kalannow/AfMaMl po:NOUN_PLURAL
 kalav/AfMaMl po:NOUN_PLURAL
 kalavednow/AfMaMl po:NOUN_PLURAL
 kalaven/AfMaMl po:NOUN_FEMININE
+kalaven/Ma po:NOUN_PLURAL
 kalavennow/AfMaMl po:NOUN_PLURAL
 kalaydoskop/AfMaMl po:NOUN_UNDETERMINED
 kalder/AfMaMl po:NOUN_MASCULINE
@@ -14651,6 +14738,7 @@ kamera/AfMaMlPs po:NOUN_MASCULINE
 kamfor/AfMaMl po:NOUN_MASCULINE
 kamil/Ma po:NOUN_COLLECTIVE
 kamilen/AfMaMl po:NOUN_FEMININE
+kamilen/Ma po:NOUN_PLURAL
 kamilion/AfMaMl po:NOUN_UNDETERMINED
 kamm
 kamm/AfMaMlPw po:NOUN_MASCULINE
@@ -14753,6 +14841,7 @@ kanatti/AfMaMlPw po:NOUN_MASCULINE
 kanej/MaMhMlMmVw po:VERB_STEM
 kanel/AfMaMl po:NOUN_FEMININE
 kanel/Ma po:NOUN_COLLECTIVE
+kanellen/Ma po:NOUN_PLURAL
 kaner/AfMaMlPq po:NOUN_MASCULINE
 kanes/MaMhMlMmVw po:VERB_STEM
 kangarou/AfMaMlPs po:NOUN_MASCULINE
@@ -15001,6 +15090,7 @@ kayys/AfMaMl po:NOUN_PLURAL
 kazakstanek/MhMl po:ADJECTIVE
 ke
 ke/AfMaMlPw po:NOUN_MASCULINE
+ke/Ma po:NOUN_PLURAL
 ke/MaMhMlMm po:VERB
 keas/MaMhMlMm po:VERB
 keas/MaMhMlMmVr po:VERB_STEM
@@ -15027,6 +15117,7 @@ kedhla/MaMhMlMm po:VERB
 kedhlow/Ma po:NOUN_PLURAL
 kedhor/Ma po:NOUN_COLLECTIVE
 kedhorek/MhMl po:ADJECTIVE
+kedhoren/Ma po:NOUN_PLURAL
 kedhorieth/AfMaMl po:NOUN_FEMININE
 kedhorva
 kedhorva/AfMaMlPw po:NOUN_FEMININE
@@ -15079,6 +15170,7 @@ kegis/AfMaMl po:NOUN_PLURAL
 kegis/Ma po:NOUN_COLLECTIVE
 kegisednow/AfMaMl po:NOUN_PLURAL
 kegisen/AfMaMl po:NOUN_FEMININE
+kegisen/Ma po:NOUN_PLURAL
 kegisennow/AfMaMl po:NOUN_PLURAL
 kegiswedhen/AfMaMl po:NOUN_FEMININE
 kegiswedhennow/AfMaMl po:NOUN_PLURAL
@@ -15122,6 +15214,7 @@ keler/AfMaMl po:NOUN_PLURAL
 keler/Ma po:NOUN_COLLECTIVE
 kelerednow/AfMaMl po:NOUN_PLURAL
 keleren/AfMaMl po:NOUN_FEMININE
+keleren/Ma po:NOUN_PLURAL
 kelerennow/AfMaMl po:NOUN_PLURAL
 kelern-godra/AfMaMl po:NOUN_PLURAL
 kelern/AfMaMl po:NOUN_PLURAL
@@ -15151,6 +15244,7 @@ kellylli/AfMaMl po:NOUN_PLURAL
 kellylligow/AfMaMl po:NOUN_PLURAL
 kellyllik/AfMaMl po:NOUN_FEMININE
 kellyn/Ma po:NOUN_COLLECTIVE
+kellynnen/Ma po:NOUN_PLURAL
 kellyow/AfMaMl po:NOUN_PLURAL
 kellys
 kellys/AfMaMl po:NOUN_PLURAL
@@ -15174,6 +15268,7 @@ kelyn/Ma po:NOUN_COLLECTIVE
 kelyndhel/AfMaMl po:NOUN_PLURAL
 kelynennow/AfMaMl po:NOUN_PLURAL
 kelynnen/AfMaMl po:NOUN_FEMININE
+kelynnen/Ma po:NOUN_PLURAL
 kelyon-bargesi/AfMaMl po:NOUN_PLURAL
 kelyon/AfMaMl po:NOUN_PLURAL
 kelyon/Ma po:NOUN_COLLECTIVE
@@ -15270,10 +15365,12 @@ kenertha/MaMhMlMm po:VERB
 kenerthas/AfMaMlPw po:NOUN_MASCULINE
 kenertth/MaMhMlMmVs po:VERB_STEM
 kenes
+kenesen/AfMaMl po:NOUN_PLURAL
 kengrell/AfMaMlPw po:NOUN_FEMININE
 kenhanow/AfMaMl po:NOUN_MASCULINE
 kenhenwyn/AfMaMl po:NOUN_PLURAL
 keninen/AfMaMl po:NOUN_FEMININE
+keninen/Ma po:NOUN_PLURAL
 kenis/AfMaMl po:NOUN_PLURAL
 kenisen/AfMaMl po:NOUN_FEMININE
 keniterow/AfMaMl po:NOUN_FEMININE
@@ -15289,6 +15386,7 @@ kenn/MaMhMlMmVaVrVs po:VERB_STEM
 kenna/MaMhMlMm po:VERB
 kennek/MhMl po:ADJECTIVE
 kennen/AfMaMl po:NOUN_FEMININE
+kennen/Ma po:NOUN_PLURAL
 kennerth/MaMhMlMmVaVr po:VERB_STEM
 kennertha/MaMhMlMm po:VERB
 kennerther/AfMaMl po:NOUN_MASCULINE
@@ -15296,6 +15394,7 @@ kennertth/MaMhMlMmVs po:VERB_STEM
 kennin
 kennin/AfMaMl po:NOUN_PLURAL
 kennin/Ma po:NOUN_COLLECTIVE
+kenninen/Ma po:NOUN_PLURAL
 kennys/MhMl po:ADJECTIVE
 kenoges/AfMaMl po:NOUN_PLURAL
 kenrewlivek/MhMl po:ADJECTIVE
@@ -15398,6 +15497,7 @@ kerghednow/AfMaMl po:NOUN_PLURAL
 kerghegi/AfMaMl po:NOUN_PLURAL
 kerghek/AfMaMl po:NOUN_FEMININE
 kerghen/AfMaMl po:NOUN_FEMININE
+kerghen/Ma po:NOUN_PLURAL
 kerghennow/AfMaMl po:NOUN_PLURAL
 kerghes/MaMhMlMm po:VERB
 kerghwels/Ma po:NOUN_COLLECTIVE
@@ -15478,11 +15578,13 @@ keschenj/MaMhMlMmVw po:VERB_STEM
 keschyncch/MaMhMlMmVu po:VERB_STEM
 kesednow/AfMaMl po:NOUN_PLURAL
 kesen/AfMaMl po:NOUN_FEMININE
+kesen/AfMaMl po:NOUN_PLURAL
 kesennow/AfMaMl po:NOUN_PLURAL
 keser
 keser/Ma po:NOUN_COLLECTIVE
 keserednow/AfMaMl po:NOUN_PLURAL
 keseren/AfMaMl po:NOUN_FEMININE
+keseren/Ma po:NOUN_PLURAL
 keserennow/AfMaMl po:NOUN_PLURAL
 kesfleghes/AfMaMl po:NOUN_PLURAL
 kesflogh/AfMaMl po:NOUN_MASCULINE
@@ -15668,6 +15770,7 @@ kesten/Ma po:NOUN_COLLECTIVE
 kestendhel/AfMaMl po:NOUN_PLURAL
 kestenednow/AfMaMl po:NOUN_PLURAL
 kestenen/AfMaMl po:NOUN_FEMININE
+kestenen/Ma po:NOUN_PLURAL
 kestenennow/AfMaMl po:NOUN_PLURAL
 kesteudhans/AfMaMlPw po:NOUN_MASCULINE
 kestev/MaMhMlMmVw po:VERB_STEM
@@ -15763,6 +15866,7 @@ keunen/AfMaMl po:NOUN_FEMININE
 keunji/AfMaMlPw po:NOUN_MASCULINE
 keunva/AfMaMlPw po:NOUN_FEMININE
 keunys/Ma po:NOUN_COLLECTIVE
+keunysen/Ma po:NOUN_PLURAL
 keunyss/MaMhMlMmVaVrVs po:VERB_STEM
 keunyssa/MaMhMlMm po:VERB
 keur/AfMaMlPx po:NOUN_MASCULINE
@@ -15890,6 +15994,7 @@ kewar/MhMl po:ADJECTIVE
 kewargh/AfMaMl po:NOUN_PLURAL
 kewargh/Ma po:NOUN_COLLECTIVE
 kewarghen/AfMaMl po:NOUN_FEMININE
+kewarghen/Ma po:NOUN_PLURAL
 kewaskans/AfMaMl po:NOUN_MASCULINE
 kewel/AfMaMl po:NOUN_PLURAL
 kewer
@@ -15906,6 +16011,7 @@ kewgh/MaMhMlMm po:VERB
 kewni
 kewni/Ma po:NOUN_COLLECTIVE
 kewniek/MhMl po:ADJECTIVE
+kewnien/Ma po:NOUN_PLURAL
 keworansel/MhMl po:ADJECTIVE
 keworansow/AfMaMl po:NOUN_PLURAL
 keworansus/MhMl po:ADJECTIVE
@@ -15920,6 +16026,7 @@ kewsel/MaMhMlMm po:VERB
 kewss/MaMhMlMmVs po:VERB_STEM
 kewweyth/AfMaMl po:NOUN_MASCULINE
 kewydh/Ma po:NOUN_COLLECTIVE
+kewydhen/Ma po:NOUN_PLURAL
 kewyow/AfMaMlPw po:NOUN_PLURAL
 keyn
 keyn/AfMaMl po:NOUN_PLURAL
@@ -15930,6 +16037,7 @@ keynres/AfMaMlPx po:NOUN_MASCULINE
 keynvor/AfMaMlPx po:NOUN_MASCULINE
 ki
 ki/AfMaMl po:NOUN_MASCULINE
+ki/Ma po:NOUN_PLURAL
 kib/AfMaMl po:NOUN_FEMININE
 kib/MaMhMlMmVaVy po:VERB_STEM
 kibel/AfMaMl po:NOUN_FEMININE
@@ -16078,6 +16186,7 @@ kledhek/MhMl po:ADJECTIVE
 kledher/Ma po:NOUN_COLLECTIVE
 kledhrednow/AfMaMl po:NOUN_PLURAL
 kledhren/AfMaMl po:NOUN_FEMININE
+kledhren/Ma po:NOUN_PLURAL
 kledhrennow/AfMaMl po:NOUN_PLURAL
 kledhya/Ma po:NOUN_VERBAL
 klefni/AfMaMl po:NOUN_MASCULINE
@@ -16252,6 +16361,7 @@ know/MaMhMlMmVaVrVs po:VERB_STEM
 knowa/MaMhMlMm po:VERB
 knowaskellen/AfMaMl po:NOUN_PLURAL
 knowdhel/Ma po:NOUN_COLLECTIVE
+knowdhelen/Ma po:NOUN_PLURAL
 knowednen/AfMaMl po:NOUN_PLURAL
 knowen
 knowen/AfMaMl po:NOUN_FEMININE
@@ -16389,6 +16499,7 @@ kolmednow/AfMaMl po:NOUN_PLURAL
 kolmek/MhMl po:ADJECTIVE
 kolmen/AfMaMl po:NOUN_FEMININE
 kolmen/AfMaMl po:NOUN_UNDETERMINED
+kolmen/Ma po:NOUN_PLURAL
 kolmennow/AfMaMl po:NOUN_PLURAL
 kolmer/AfMaMl po:NOUN_PLURAL
 kolmer/AfMaMlPq po:NOUN_MASCULINE
@@ -16396,6 +16507,7 @@ kolmow/AfMaMl po:NOUN_PLURAL
 kolodhyon/AfMaMl po:NOUN_UNDETERMINED
 kolodhyon/Ma po:NOUN_COLLECTIVE
 kolodhyon/Ma po:NOUN_PLURAL
+kolodhyonen/Ma po:NOUN_PLURAL
 kolodnek/MhMl po:ADJECTIVE
 kolodnen/AfMaMl po:NOUN_FEMININE
 kolodnyow/AfMaMl po:NOUN_PLURAL
@@ -16622,6 +16734,7 @@ kool/AfMaMl po:NOUN_FEMININE
 kool/AfMaMl po:NOUN_MASCULINE
 koos
 koos-kennin/Ma po:NOUN_COLLECTIVE
+koos-kenninen/Ma po:NOUN_PLURAL
 koos/AfMaMl po:NOUN_FEMININE
 koos/AfMaMl po:NOUN_MASCULINE
 koos/AfMaMl po:NOUN_PLURAL
@@ -16726,6 +16839,7 @@ korrigow/AfMaMl po:NOUN_PLURAL
 korrik/AfMaMl po:NOUN_MASCULINE
 korrorganedh/AfMaMlPw po:NOUN_MASCULINE
 korrvanadhel/Ma po:NOUN_COLLECTIVE
+korrvanadhlen/Ma po:NOUN_PLURAL
 korrvarvus/AfMaMl po:NOUN_MASCULINE
 korrvarvusi/AfMaMl po:NOUN_PLURAL
 korrvesow/AfMaMl po:NOUN_PLURAL
@@ -16742,6 +16856,7 @@ kors/Ma po:NOUN_COLLECTIVE
 korsednow/AfMaMl po:NOUN_PLURAL
 korsen
 korsen/AfMaMl po:NOUN_FEMININE
+korsen/Ma po:NOUN_PLURAL
 korsennow/AfMaMl po:NOUN_PLURAL
 korset/AfMaMl po:NOUN_MASCULINE
 korsettys/AfMaMl po:NOUN_PLURAL
@@ -16768,6 +16883,7 @@ koselh/MaMhMlMmVaViVr po:VERB_STEM
 koselhah/MaMhMlMmVs po:VERB_STEM
 koselhe/MaMhMlMm po:VERB
 kosfinel/Ma po:NOUN_COLLECTIVE
+kosfinellen/Ma po:NOUN_PLURAL
 kosin/AfMaMlPs po:NOUN_MASCULINE
 kosk
 kosk/AfMaMl po:NOUN_MASCULINE
@@ -16951,8 +17067,10 @@ kowlbrena/MaMhMlMm po:VERB
 kowlbrenn/MaMhMlMmVs po:VERB_STEM
 kowldevys/MhMl po:ADJECTIVE
 kowlednik/AfMaMl po:NOUN_FEMININE
+kowlen/Ma po:NOUN_PLURAL
 kowlennik/AfMaMl po:NOUN_FEMININE
 kowles/Ma po:NOUN_COLLECTIVE
+kowlesen/Ma po:NOUN_PLURAL
 kowligow/AfMaMl po:NOUN_PLURAL
 kowlik/AfMaMl po:NOUN_MASCULINE
 kowll/MaMhMlMmVs po:VERB_STEM
@@ -17021,6 +17139,7 @@ kradnek/MhMl po:ADJECTIVE
 kraf/AfMaMl po:NOUN_MASCULINE
 kraf/MhMl po:ADJECTIVE
 krag/Ma po:NOUN_COLLECTIVE
+kragen/Ma po:NOUN_PLURAL
 kragh/AfMaMl po:NOUN_MASCULINE
 kraghles/AfMaMl po:NOUN_MASCULINE
 kram/MaMhMlMmVaVv po:VERB_STEM
@@ -17034,6 +17153,7 @@ krampoth/AfMaMl po:NOUN_PLURAL
 krampoth/Ma po:NOUN_COLLECTIVE
 krampothednow/AfMaMl po:NOUN_PLURAL
 krampothen/AfMaMl po:NOUN_FEMININE
+krampothen/Ma po:NOUN_PLURAL
 krampothennow/AfMaMl po:NOUN_PLURAL
 kramppll/MaMhMlMmVt po:VERB_STEM
 kramvil/AfMaMlPe po:NOUN_MASCULINE
@@ -17326,6 +17446,7 @@ krowslinek/MhMl po:ADJECTIVE
 krowslinen/AfMaMl po:NOUN_FEMININE
 krowslinennow/AfMaMl po:NOUN_PLURAL
 krowswythi/Ma po:NOUN_COLLECTIVE
+krowswythien/Ma po:NOUN_PLURAL
 krowyow/AfMaMl po:NOUN_PLURAL
 kruel/MhMl po:ADJECTIVE
 kruelder/AfMaMlPx po:NOUN_MASCULINE
@@ -17426,6 +17547,7 @@ kuntellyans/AfMaMlPw po:NOUN_MASCULINE
 kuntelores/AfMaMl po:NOUN_FEMININE
 kuntilow/AfMaMlPx po:NOUN_MASCULINE
 kunys/Ma po:NOUN_COLLECTIVE
+kunysen/Ma po:NOUN_PLURAL
 kur/AfMaMl po:NOUN_MASCULINE
 kur/MaMhMlMmVaVy po:VERB_STEM
 kuriegi/AfMaMl po:NOUN_PLURAL
@@ -17546,6 +17668,7 @@ kylghyow/AfMaMl po:NOUN_PLURAL
 kyllas/AfMaMl po:NOUN_PLURAL
 kyllas/Ma po:NOUN_COLLECTIVE
 kyllasen/AfMaMl po:NOUN_FEMININE
+kyllasen/Ma po:NOUN_PLURAL
 kymm/MaMhMlMmVu po:VERB_STEM
 kympp/MaMhMlMmVu po:VERB_STEM
 kymygednow/AfMaMl po:NOUN_PLURAL
@@ -17979,6 +18102,7 @@ leslesa/AfMaMl po:NOUN_MASCULINE
 leslethan/AfMaMl po:NOUN_MASCULINE
 leslew/Ma po:NOUN_COLLECTIVE
 leslowednow/Ma po:NOUN_PLURAL
+leslowen/Ma po:NOUN_PLURAL
 leslowennow/Ma po:NOUN_PLURAL
 lesow/AfMaMlPw po:NOUN_PLURAL
 lesradn/MaMhMlMmVaVv po:VERB_STEM
@@ -18269,6 +18393,7 @@ lili/AfMaMl po:NOUN_PLURAL
 lili/Ma po:NOUN_COLLECTIVE
 liliednow/AfMaMl po:NOUN_PLURAL
 lilien/AfMaMl po:NOUN_FEMININE
+lilien/Ma po:NOUN_PLURAL
 liliennow/AfMaMl po:NOUN_PLURAL
 lim
 lim/AfMaMl po:NOUN_MASCULINE
@@ -18284,6 +18409,7 @@ linas/Ma po:NOUN_COLLECTIVE
 linasegi/AfMaMl po:NOUN_PLURAL
 linasek/AfMaMl po:NOUN_FEMININE
 linasen/AfMaMl po:NOUN_FEMININE
+linasen/Ma po:NOUN_PLURAL
 lindir/AfMaMlPx po:NOUN_MASCULINE
 linedn/MaMhMlMmVaVr po:VERB_STEM
 linedna/MaMhMlMm po:VERB
@@ -18296,6 +18422,7 @@ linen
 linen-dewlel/AfMaMl po:NOUN_FEMININE
 linen-waynya/AfMaMl po:NOUN_FEMININE
 linen/AfMaMl po:NOUN_FEMININE
+linen/Ma po:NOUN_PLURAL
 linenansow/AfMaMl po:NOUN_PLURAL
 linenn/MaMhMlMmVaVrVs po:VERB_STEM
 linenna/MaMhMlMm po:VERB
@@ -18372,9 +18499,11 @@ logh/AfMaMlPw po:NOUN_MASCULINE
 logh/MhMl po:ADJECTIVE
 logheth/AfMaMl po:NOUN_FEMININE
 logo/AfMaMlPsPx po:NOUN_UNDETERMINED
+logojen/AfMaMl po:NOUN_PLURAL
 logos
 logos/AfMaMl po:NOUN_PLURAL
 logosen
+logosen/AfMaMl po:NOUN_PLURAL
 logosen/AfMaMl po:NOUN_UNDETERMINED
 logosennow/AfMaMl po:NOUN_PLURAL
 logygel/MhMl po:ADJECTIVE
@@ -18480,6 +18609,7 @@ losowegores/AfMaMlPw po:NOUN_FEMININE
 losowegow/AfMaMl po:NOUN_PLURAL
 losowek/MhMl po:ADJECTIVE
 losowen/AfMaMl po:NOUN_FEMININE
+losowen/Ma po:NOUN_PLURAL
 losowennow/AfMaMl po:NOUN_PLURAL
 loss/MaMhMlMmVs po:VERB_STEM
 lost
@@ -18547,6 +18677,7 @@ lowednow/AfMaMl po:NOUN_PLURAL
 lowen
 lowen!
 lowen/AfMaMl po:NOUN_FEMININE
+lowen/Ma po:NOUN_PLURAL
 lowen/MhMl po:ADJECTIVE
 lowena
 lowena/AfMaMl po:NOUN_FEMININE
@@ -18620,6 +18751,7 @@ lulynnow/AfMaMl po:NOUN_PLURAL
 lus/Ma po:NOUN_COLLECTIVE
 lusdel
 lusdel/AfMaMl po:NOUN_PLURAL
+lusen/Ma po:NOUN_PLURAL
 lust/AfMaMlPy po:NOUN_MASCULINE
 lusu/Ma po:NOUN_COLLECTIVE
 lusuegyn/AfMaMl po:NOUN_MASCULINE
@@ -18662,6 +18794,7 @@ lynch/MaMhMlMmVaVy po:VERB_STEM
 lynchya/MaMhMlMm po:VERB
 lynn
 lynn/AfMaMl po:NOUN_FEMININE
+lynn/Ma po:NOUN_PLURAL
 lynnyn/AfMaMl po:NOUN_PLURAL
 lypp/MaMhMlMmVu po:VERB_STEM
 lys
@@ -18787,6 +18920,7 @@ mallborth/AfMaMlPw po:NOUN_MASCULINE
 mallek/MhMl po:ADJECTIVE
 malow/AfMaMl po:NOUN_FEMININE
 malow/Ma po:NOUN_COLLECTIVE
+malowen/AfMaMl po:NOUN_PLURAL
 maltek/MhMl po:ADJECTIVE
 mamethow/AfMaMl po:NOUN_PLURAL
 mamm/AfMaMl po:NOUN_FEMININE
@@ -18836,6 +18970,7 @@ mann/Fp po:ADVERB
 manna/AfMaMl po:NOUN_PLURAL
 mannav/MaMhMlMm po:VERB
 mannbluv/Ma po:NOUN_COLLECTIVE
+mannbluven/Ma po:NOUN_PLURAL
 mannh/MaMhMlMmVaViVr po:VERB_STEM
 mannhah/MaMhMlMmVs po:VERB_STEM
 mannhe/MaMhMlMm po:VERB
@@ -18892,6 +19027,7 @@ marghas/MaMhMlMmVaVv po:VERB_STEM
 marghasa/MaMhMlMm po:VERB
 marghasans/AfMaMl po:NOUN_MASCULINE
 marghaskall/Ma po:NOUN_COLLECTIVE
+marghaskallen/Ma po:NOUN_PLURAL
 marghasn/MaMhMlMmVaVv po:VERB_STEM
 marghasna/MaMhMlMm po:VERB
 marghasnn/MaMhMlMmVt po:VERB_STEM
@@ -18913,6 +19049,7 @@ marghogeth/MaMhMlMmVr po:VERB_STEM
 marghogetth/MaMhMlMmVs po:VERB_STEM
 marghogyon
 marghreden/Ma po:NOUN_COLLECTIVE
+marghredenen/Ma po:NOUN_PLURAL
 marghredigow/AfMaMl po:NOUN_PLURAL
 marghredik/AfMaMl po:NOUN_MASCULINE
 marghti/AfMaMlPw po:NOUN_MASCULINE
@@ -19116,6 +19253,7 @@ melinores/AfMaMlPw po:NOUN_FEMININE
 melinyow-rolya/AfMaMl po:NOUN_PLURAL
 melinyow/AfMaMl po:NOUN_PLURAL
 melion/Ma po:NOUN_COLLECTIVE
+melionen/Ma po:NOUN_PLURAL
 mell
 mell/AfMaMlPw po:NOUN_MASCULINE
 mell/MaMhMlMmVaVsVyVz po:VERB_STEM
@@ -19128,6 +19266,7 @@ mellyer/AfMaMlPq po:NOUN_MASCULINE
 mellyon/AfMaMl po:NOUN_PLURAL
 mellyon/Ma po:NOUN_COLLECTIVE
 mellyonen/AfMaMl po:NOUN_FEMININE
+mellyonen/Ma po:NOUN_PLURAL
 mellyores/AfMaMlPw po:NOUN_FEMININE
 melodi/AfMaMlPs po:NOUN_MASCULINE
 melodius/MhMl po:ADJECTIVE
@@ -19206,6 +19345,7 @@ menjens/MaMhMlMm po:VERB
 menjes/MaMhMlMm po:VERB
 menjew/MaMhMlMm po:VERB
 menkek/Ma po:NOUN_COLLECTIVE
+menkogen/Ma po:NOUN_PLURAL
 menn/MaMhMlMmViVrVsVz po:VERB_STEM
 menna/MaMhMlMm po:VERB
 mennek/AfMaMl po:NOUN_MASCULINE
@@ -19290,6 +19430,7 @@ merkyl/AfMaMl po:NOUN_MASCULINE
 merkys/AfMaMl po:NOUN_PLURAL
 merles/Ma po:NOUN_COLLECTIVE
 merlosow/Ma po:NOUN_COLLECTIVE
+merlosowen/Ma po:NOUN_PLURAL
 mernans
 mernans/AfMaMlPw po:NOUN_MASCULINE
 merr/MaMhMlMmVs po:VERB_STEM
@@ -19506,6 +19647,7 @@ minto/AfMaMl po:NOUN_MASCULINE
 minvlew/Ma po:NOUN_COLLECTIVE
 minvlewednow/AfMaMl po:NOUN_PLURAL
 minvlewen/AfMaMl po:NOUN_FEMININE
+minvlewen/Ma po:NOUN_PLURAL
 minvlewennow/AfMaMl po:NOUN_PLURAL
 minyon/AfMaMl po:NOUN_PLURAL
 minyow/AfMaMl po:NOUN_PLURAL
@@ -19670,16 +19812,20 @@ moren
 moren/AfMaMl po:NOUN_PLURAL
 moren/AfMaMlPq po:NOUN_FEMININE
 moresk/Ma po:NOUN_COLLECTIVE
+moresken/Ma po:NOUN_PLURAL
 moreynda/AfMaMl po:NOUN_MASCULINE
 moreyndas/AfMaMl po:NOUN_PLURAL
 morfordh/AfMaMlPw po:NOUN_FEMININE
 morganit/AfMaMlPy po:NOUN_MASCULINE
 morgaryans/AfMaMl po:NOUN_MASCULINE
 morgelyn/Ma po:NOUN_COLLECTIVE
+morgelynen/Ma po:NOUN_PLURAL
 morgeun/AfMaMl po:NOUN_PLURAL
 morgi/AfMaMl po:NOUN_MASCULINE
 morgowl/Ma po:NOUN_COLLECTIVE
+morgowlen/Ma po:NOUN_PLURAL
 morgowles/Ma po:NOUN_COLLECTIVE
+morgowlesen/Ma po:NOUN_PLURAL
 morgroban/AfMaMlPe po:NOUN_MASCULINE
 morhogh/AfMaMlPe po:NOUN_MASCULINE
 morinda/AfMaMl po:NOUN_PLURAL
@@ -19738,6 +19884,7 @@ moryon
 moryon/AfMaMl po:NOUN_PLURAL
 moryon/Ma po:NOUN_COLLECTIVE
 moryonen/AfMaMl po:NOUN_FEMININE
+moryonen/Ma po:NOUN_PLURAL
 moryonennow/Ma po:NOUN_PLURAL
 moryoner/AfMaMl po:NOUN_UNDETERMINED
 moryow/AfMaMl po:NOUN_PLURAL
@@ -19843,6 +19990,7 @@ mycch/MaMhMlMmVs po:VERB_STEM
 mydna/MaMhMlMm po:VERB
 myghtern
 myghtern/AfMaMl po:NOUN_MASCULINE
+myghtern/Ma po:NOUN_PLURAL
 myghternedh/AfMaMl po:NOUN_PLURAL
 myghternes/AfMaMlPw po:NOUN_FEMININE
 myghterneth/AfMaMlPw po:NOUN_FEMININE
@@ -20976,6 +21124,7 @@ organek/MhMl po:ADJECTIVE
 organow
 organow/AfMaMl po:NOUN_PLURAL
 organs/Ma po:NOUN_COLLECTIVE
+organsen/Ma po:NOUN_PLURAL
 orgelus/MhMl po:ADJECTIVE
 orgraf/AfMaMlPw po:NOUN_FEMININE
 orharkk/MaMhMlMmVt po:VERB_STEM
@@ -22937,6 +23086,7 @@ pys/MaMhMlMmViVr po:VERB_STEM
 pysadow/AfMaMl po:NOUN_MASCULINE
 pysednow/AfMaMl po:NOUN_PLURAL
 pysen/AfMaMl po:NOUN_FEMININE
+pysen/Ma po:NOUN_PLURAL
 pysennek/AfMaMl po:NOUN_MASCULINE
 pysennow/AfMaMl po:NOUN_PLURAL
 pysenogyon/AfMaMl po:NOUN_PLURAL
@@ -23220,6 +23370,7 @@ reden/AfMaMl po:NOUN_PLURAL
 reden/Ma po:NOUN_COLLECTIVE
 redenednow/AfMaMl po:NOUN_PLURAL
 redenen/AfMaMl po:NOUN_FEMININE
+redenen/Ma po:NOUN_PLURAL
 redenennow/AfMaMl po:NOUN_PLURAL
 redigen/AfMaMl po:NOUN_FEMININE
 redik/AfMaMl po:NOUN_PLURAL
@@ -23481,6 +23632,7 @@ rin/AfMaMlPx po:NOUN_MASCULINE
 ris/Ma po:NOUN_COLLECTIVE
 risednow/AfMaMl po:NOUN_PLURAL
 risen/AfMaMl po:NOUN_FEMININE
+risen/Ma po:NOUN_PLURAL
 risennow/AfMaMl po:NOUN_PLURAL
 ristthah/MaMhMlMmVs po:VERB_STEM
 ritikk/MaMhMlMmVs po:VERB_STEM
@@ -23569,6 +23721,7 @@ rosell/MaMhMlMmVaVrVs po:VERB_STEM
 rosella/MaMhMlMm po:VERB
 rosellans/AfMaMlPw po:NOUN_MASCULINE
 rosen/AfMaMl po:NOUN_FEMININE
+rosen/Ma po:NOUN_PLURAL
 rosigow/AfMaMl po:NOUN_PLURAL
 rosik/AfMaMl po:NOUN_FEMININE
 roskesya/Ma po:NOUN_VERBAL
@@ -23578,6 +23731,7 @@ roslever/AfMaMl po:NOUN_MASCULINE
 roslevrow/AfMaMlPw po:NOUN_PLURAL
 roslyver/AfMaMlPw po:NOUN_MASCULINE
 rosmari/Ma po:NOUN_COLLECTIVE
+rosmarien/Ma po:NOUN_PLURAL
 rosow-gweres/AfMaMl po:NOUN_PLURAL
 rosow-lewya/AfMaMl po:NOUN_PLURAL
 rosow/AfMaMlPy po:NOUN_PLURAL
@@ -23849,6 +24003,7 @@ sebon/AfMaMlPw po:NOUN_MASCULINE
 sebon/MaMhMlMmViVr po:VERB_STEM
 seboni/MaMhMlMm po:VERB
 sebonles/Ma po:NOUN_COLLECTIVE
+sebonlosowen/Ma po:NOUN_PLURAL
 sebonn/MaMhMlMmVs po:VERB_STEM
 sedh/AfMaMlPw po:NOUN_MASCULINE
 sedh/MaMhMlMmVaViVr po:VERB_STEM
@@ -24005,6 +24160,7 @@ servyour/AfMaMlPs po:NOUN_MASCULINE
 servysi/AfMaMl po:NOUN_PLURAL
 ses/MaMhMlMmVaVy po:VERB_STEM
 sesame
+sesame/Ma po:NOUN_PLURAL
 seson
 seson/AfMaMl po:NOUN_MASCULINE
 sesons/AfMaMl po:NOUN_PLURAL
@@ -24054,6 +24210,7 @@ seviednow/AfMaMl po:NOUN_PLURAL
 seviegi/AfMaMl po:NOUN_PLURAL
 seviek/AfMaMl po:NOUN_FEMININE
 sevien/AfMaMl po:NOUN_FEMININE
+sevien/Ma po:NOUN_PLURAL
 seviennow/AfMaMl po:NOUN_PLURAL
 sevur/MhMl po:ADJECTIVE
 sevureth/AfMaMl po:NOUN_FEMININE
@@ -24080,6 +24237,7 @@ seytegves po:NUMBER
 seytek po:NUMBER
 seyth po:NUMBER
 seythdel/Ma po:NOUN_COLLECTIVE
+seythdelen/Ma po:NOUN_PLURAL
 seythednek
 seythednek/MhMl po:ADJECTIVE
 seythednow/AfMaMl po:NOUN_PLURAL
@@ -24452,6 +24610,7 @@ skorr/AfMaMlPw po:NOUN_MASCULINE
 skorr/Ma po:NOUN_COLLECTIVE
 skorr/MaMhMlMmVz po:VERB_STEM
 skorren/AfMaMl po:NOUN_FEMININE
+skorren/Ma po:NOUN_PLURAL
 skorya/MaMhMlMm po:VERB
 skosow/AfMaMl po:NOUN_PLURAL
 skotek/MhMl po:ADJECTIVE
@@ -24609,6 +24768,7 @@ skydnn/MaMhMlMmVz po:VERB_STEM
 skydnya/MaMhMlMm po:VERB
 skydnynans/AfMaMl po:NOUN_MASCULINE
 skylednow/AfMaMl po:NOUN_PLURAL
+skylen/Ma po:NOUN_PLURAL
 skylennow/AfMaMl po:NOUN_PLURAL
 skyll/AfMaMl po:NOUN_PLURAL
 skyll/Ma po:NOUN_COLLECTIVE
@@ -25105,6 +25265,7 @@ steren
 steren-leski/AfMaMl po:NOUN_FEMININE
 steren-wibya/AfMaMl po:NOUN_FEMININE
 steren/AfMaMl po:NOUN_FEMININE
+steren/AfMaMl po:NOUN_PLURAL
 sterennek/MhMl po:ADJECTIVE
 sterennik/AfMaMl po:NOUN_FEMININE
 sterennow-gwibya/AfMaMl po:NOUN_PLURAL
@@ -25238,6 +25399,7 @@ striw/AfMaMlPx po:NOUN_MASCULINE
 striw/MaMhMlMmViVrVs po:VERB_STEM
 striwi/MaMhMlMm po:VERB
 striwles/Ma po:NOUN_COLLECTIVE
+striwlosowen/Ma po:NOUN_PLURAL
 strokas/AfMaMl po:NOUN_UNDETERMINED
 strol/AfMaMl po:NOUN_MASCULINE
 strol/MaMhMlMmVaVy po:VERB_STEM
@@ -25546,6 +25708,7 @@ tankeryow/AfMaMl po:NOUN_PLURAL
 tankow/AfMaMl po:NOUN_PLURAL
 tanks/AfMaMl po:NOUN_PLURAL
 tanles/Ma po:NOUN_COLLECTIVE
+tanlosowen/Ma po:NOUN_PLURAL
 tanlu/AfMaMlPx po:NOUN_MASCULINE
 tanow/MhMl po:ADJECTIVE
 tanowder/AfMaMlPx po:NOUN_MASCULINE
@@ -25654,6 +25817,7 @@ tavol/AfMaMl po:NOUN_PLURAL
 tavol/Ma po:NOUN_COLLECTIVE
 tavolednow/AfMaMl po:NOUN_PLURAL
 tavolen/AfMaMl po:NOUN_FEMININE
+tavolen/Ma po:NOUN_PLURAL
 tavolennow/AfMaMl po:NOUN_PLURAL
 tavos/MaMhMlMmVaVr po:VERB_STEM
 tavosa/MaMhMlMm po:VERB
@@ -25685,6 +25849,7 @@ tebelfarr/MaMhMlMmVt po:VERB_STEM
 tebelfer/MaMhMlMmVw po:VERB_STEM
 tebelfyrr/MaMhMlMmVu po:VERB_STEM
 tebelgegis/Ma po:NOUN_COLLECTIVE
+tebelgegisen/Ma po:NOUN_PLURAL
 tebelvest/AfMaMlPe po:NOUN_MASCULINE
 tebmik/AfMaMl po:NOUN_MASCULINE
 tebmyn/AfMaMl po:NOUN_PLURAL
@@ -26028,6 +26193,7 @@ tewesek
 tewesek/AfMaMl po:NOUN_PLURAL
 tewesek/MhMl po:ADJECTIVE
 tewesen/AfMaMl po:NOUN_FEMININE
+tewesen/Ma po:NOUN_PLURAL
 tewesennow/AfMaMl po:NOUN_PLURAL
 tewewgh po:NOUN_PLURAL
 tewh/MaMhMlMmVaViVr po:VERB_STEM
@@ -26068,6 +26234,7 @@ teyr po:NUMBER
 teyr/AfMaMl po:NOUN_FEMININE
 teyrdel/Ma po:NOUN_COLLECTIVE
 teyrdelen/AfMaMl po:NOUN_FEMININE
+teyrdelen/Ma po:NOUN_PLURAL
 teyrgweyth/Fp po:ADVERB
 teyrros/AfMaMlPw po:NOUN_FEMININE
 teythi/Ma po:NOUN_PLURAL
@@ -26365,6 +26532,7 @@ towarghednow/Ma po:NOUN_PLURAL
 towarghegi/AfMaMl po:NOUN_PLURAL
 towarghegow/AfMaMl po:NOUN_PLURAL
 towarghek/AfMaMl po:NOUN_FEMININE
+towarghen/Ma po:NOUN_PLURAL
 towarghennow/Ma po:NOUN_PLURAL
 towel/AfMaMl po:NOUN_MASCULINE
 towellow/AfMaMl po:NOUN_PLURAL
@@ -27302,9 +27470,11 @@ velov/Fp po:ADVERB
 velowgh/Fp po:ADVERB
 velvet/AfMaMl po:NOUN_MASCULINE
 velyn
+velyn/Ma po:NOUN_PLURAL
 velyndhel
 velys
 velyseth
+velyseth/Ma po:NOUN_PLURAL
 ven
 vena
 vencch/MaMhMlMmVz po:VERB_STEM
@@ -27319,6 +27489,7 @@ vens/MaMhMlMmVw po:VERB_STEM
 venweyth
 venweyth/AfMaMl po:NOUN_PLURAL
 venydh
+venydh/Ma po:NOUN_PLURAL
 venym/AfMaMlPx po:NOUN_MASCULINE
 venymys/MhMl po:ADJECTIVE
 ver/MaMhMlMmVw po:VERB_STEM
@@ -27393,6 +27564,7 @@ vledhynnyek
 vleujyow
 vlew
 vlewek
+vlewek/Ma po:NOUN_PLURAL
 vo
 vodka/AfMaMlPs po:NOUN_MASCULINE
 vogh
@@ -27408,6 +27580,7 @@ vona
 vond
 vonjak
 vool
+vool/Ma po:NOUN_PLURAL
 voon
 voos
 vor
@@ -27423,12 +27596,14 @@ votyans/AfMaMlPw po:NOUN_FEMININE
 vovya
 voward
 voward/AfMaMlPy po:NOUN_MASCULINE
+vowesi/Ma po:NOUN_PLURAL
 voyd/MaMhMlMmVaVy po:VERB_STEM
 voydama! po:INTERJECTION
 voydya/MaMhMlMm po:VERB
 voytt/MaMhMlMmVz po:VERB_STEM
 vranjen
 vras
+vras/Ma po:NOUN_PLURAL
 vrassa
 vregh
 vres
@@ -27446,9 +27621,11 @@ vrys
 vu/AfMaMlPy po:NOUN_MASCULINE
 vudhek
 vugh
+vugh/Ma po:NOUN_PLURAL
 vughes
 vughes/AfMaMl po:NOUN_PLURAL
 vulgh
+vusk/Ma po:NOUN_PLURAL
 vuskat
 vuskok
 vuskok/AfMaMl po:NOUN_PLURAL
@@ -27588,12 +27765,14 @@ wedhow/AfMaMl po:NOUN_PLURAL
 wel
 weles
 weles!
+weli/Ma po:NOUN_PLURAL
 welk/MaMhMlMmVw po:VERB_STEM
 well! po:INTERJECTION
 welts/MaMhMlMmVw po:VERB_STEM
 wenenen
 wer/MaMhMlMmVw po:VERB_STEM
 werin
+wern/Ma po:NOUN_PLURAL
 west
 west/AfMaMl po:NOUN_MASCULINE
 west/AfMaMl po:NOUN_PLURAL
@@ -27614,6 +27793,7 @@ wlasek
 wlyggh/MaMhMlMmVs po:VERB_STEM
 wober
 wober/AfMaMl po:NOUN_PLURAL
+wodroth/Ma po:NOUN_PLURAL
 woja-rewlivek/MhMl po:ADJECTIVE
 woja/Fp po:ADVERB
 woja/Fp po:PREPOSITION
@@ -27631,6 +27811,7 @@ wolkom/MhMl po:ADJECTIVE
 wolkomm/MaMhMlMmVaVrVs po:VERB_STEM
 wolkomma/MaMhMlMm po:VERB
 wolkommus/MhMl po:ADJECTIVE
+wols/Ma po:NOUN_PLURAL
 wonisyow
 wonisyow/AfMaMl po:NOUN_PLURAL
 woon
@@ -27685,6 +27866,7 @@ wrys
 wul
 wuw
 wuwdhel
+wuwdhel/Ma po:NOUN_PLURAL
 wyckk/MaMhMlMmVu po:VERB_STEM
 wydh
 wydh/AfMaMl po:NOUN_PLURAL
@@ -27701,6 +27883,7 @@ wyns
 wyrdh
 wyrdhlas
 wyrghes
+wyrghes/Ma po:NOUN_PLURAL
 wyrr/MaMhMlMmVu po:VERB_STEM
 wystt/MaMhMlMmVu po:VERB_STEM
 wythien
@@ -28005,9 +28188,11 @@ ysasver/AfMaMl po:NOUN_MASCULINE
 ysaveryow/AfMaMl po:NOUN_PLURAL
 ysednow/Ma po:NOUN_PLURAL
 ysek/MhMl po:ADJECTIVE
+ysen/Ma po:NOUN_PLURAL
 ysennow/Ma po:NOUN_PLURAL
 yskans/Ma po:NOUN_COLLECTIVE
 yskansednow/Ma po:NOUN_PLURAL
+yskansen/Ma po:NOUN_PLURAL
 yskansennow/Ma po:NOUN_PLURAL
 yskar/AfMaMl po:NOUN_MASCULINE
 yskydn/MaMhMlMmVaVr po:VERB_STEM
